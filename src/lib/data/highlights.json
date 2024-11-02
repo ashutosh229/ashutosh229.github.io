@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Pronites",
+		"events": [
+			{
+				"name": "Jiya Mehta",
+				"image": "Antara-Mitra.png",
+				"eventDate": "17 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			},
+			{
+				"name": "Ashutosh Kumar Jha",
+				"image": "vivek.webp",
+				"eventDate": "17 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			},
+			{
+				"name": "Trapped",
+				"image": "qafila.png",
+				"eventDate": "16 March 2024",
+				"eventTime": "Time: TBA",
+				"eventLocation": "Pronite Stage"
+			}
+		]
+	}
+]
+
