@@ -23,7 +23,7 @@ jobs:
           npm install
           npm run build
           npm run postbuild
-          cp ./build/index.html
+          cp ./build/index.html ./build/404.html
       - name: Deploy
         if: success()
         uses: crazy-max/ghaction-github-pages@v4
