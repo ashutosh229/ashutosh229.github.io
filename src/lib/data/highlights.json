@@ -3,21 +3,21 @@
 		"title": "Pronites",
 		"events": [
 			{
-				"name": "Alpha",
+				"name": "A",
 				"image": "Antara-Mitra.png",
 				"eventDate": "17 March 2024",
 				"eventTime": "Time: TBA",
 				"eventLocation": "Pronite Stage"
 			},
 			{
-				"name": "Beta",
+				"name": "B",
 				"image": "vivek.webp",
 				"eventDate": "17 March 2024",
 				"eventTime": "Time: TBA",
 				"eventLocation": "Pronite Stage"
 			},
 			{
-				"name": "Gamma",
+				"name": "C",
 				"image": "qafila.png",
 				"eventDate": "16 March 2024",
 				"eventTime": "Time: TBA",
