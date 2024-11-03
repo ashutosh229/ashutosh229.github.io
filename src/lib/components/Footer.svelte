@@ -35,14 +35,14 @@
         <div class="address">
           <p class="title">Contact Number</p>
           <p class="content">
-            <span>Harsh Meena (Convener)</span>
-            <br />
-            <span>7611088018</span>
-            <br /><br />
-
-            <span>Himanshu Rana (President)</span>
+            <span>Himanshu Rana (Fest Head/President)</span>
             <br />
             <span>8770571371</span>
+            <br /><br />
+
+            <span>Harsh Meena(Fest Convenor/Events Head/)</span>
+            <br />
+            <span>7611088018</span>
             <br /><br />
           </p>
         </div>
