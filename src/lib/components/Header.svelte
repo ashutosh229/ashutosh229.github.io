@@ -28,7 +28,12 @@
 >
   <div class="small-navbar-logo-conatiner">
     <a href="/">
-      <img alt="" class="small-navbar-logo" src="/assets/meraz_logo_final_2024.svg" srcset="" />
+      <img
+        alt=""
+        class="small-navbar-logo"
+        src="/assets/meraz_logo_final_2024.svg"
+        srcset=""
+      />
     </a>
   </div>
   <button
@@ -52,16 +57,18 @@
         {#if index == 3}
           <li class="logo">
             <a href="/">
-              <img alt="" class="logoo" src="/assets/meraz_logo_final_2024.svg" srcset="" />
+              <img
+                alt=""
+                class="logoo"
+                src="/assets/meraz_logo_final_2024.svg"
+                srcset=""
+              />
             </a>
           </li>
         {/if}
       {/each}
       <div class="regbtn">
-        <a
-          href="https://unstop.com/p/meraz-registration-pass-meraz-40-indian-institute-of-technology-iit-bhilai-923047"
-          >Register</a
-        >
+        <a href="#">Register</a>
       </div>
     </div>
   </nav>

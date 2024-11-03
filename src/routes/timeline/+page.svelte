@@ -26,12 +26,7 @@
     <SectionHeader name="Schedule" />
   </div>
   <div class="box">
-    <a
-      href="https://docs.google.com/spreadsheets/d/1Ze7gMTYuhjnBzuGcTF-m5vdGILBFTtayVSlS9WlqvTA/edit#gid=2115344226"
-      class="redirect-button"
-    >
-      View in Google Sheets
-    </a>
+    <a href="#" class="redirect-button"> View in Google Sheets </a>
   </div>
 </div>
 
