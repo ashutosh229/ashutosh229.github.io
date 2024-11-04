@@ -68,7 +68,10 @@
         {/if}
       {/each}
       <div class="regbtn">
-        <a href="#">Register</a>
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
+          >Register</a
+        >
       </div>
     </div>
   </nav>

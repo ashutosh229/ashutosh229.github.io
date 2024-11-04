@@ -9,7 +9,8 @@
   let eventsData = allEventsData[data.type];
 
   $collapsingNavbar = false;
-  const capitalizeFirstLetter = (str) => str.charAt(0).toUpperCase() + str.slice(1);
+  const capitalizeFirstLetter = (str) =>
+    str.charAt(0).toUpperCase() + str.slice(1);
 </script>
 
 <svelte:head>

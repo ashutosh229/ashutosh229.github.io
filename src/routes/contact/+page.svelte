@@ -85,9 +85,9 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Elavartha Nikhil Reddy (CoSA Events Head) - 8790367047</p>
-            <p>Sooraj Reddy (CoSA President) - 9391436084</p>
-            <p>Atharva Bhatnagar (CoSA Treasurer) - 8447973545</p>
+            <p>Himanshu Rana (CoSA President) - 8770571371</p>
+            <p>Harsh Meena (CoSA Events Head) - 7611088018</p>
+            <p>Piyush Chandrakar (CoSA Treasurer) - 9179932361</p>
           </div>
         </div>
       </div>
@@ -100,13 +100,13 @@
         <div class="nonhiddenInfo">
           <div id="poc">
             <p>
-              <a href="mailto:eventshead_cosa@iitbhilai.ac.in"
-                >eventshead_cosa@iitbhilai.ac.in
+              <a href="mailto:President_CoSA@iitbhilai.ac.in"
+                >president_CoSA@iitbhilai.ac.in
               </a>
             </p>
             <p>
-              <a href="mailto:President_CoSA@iitbhilai.ac.in"
-                >president_CoSA@iitbhilai.ac.in
+              <a href="mailto:eventshead_cosa@iitbhilai.ac.in"
+                >eventshead_cosa@iitbhilai.ac.in
               </a>
             </p>
           </div>
@@ -135,8 +135,8 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Shreya Nukala - 8185820990</p>
-            <p>Sanyam Sharma - 8360795487</p>
+            <p>Piyush Chandrakar - 9179932361</p>
+            <p>Himanshu Soni - 9119219983</p>
           </div>
         </div>
       </div>
@@ -148,7 +148,8 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Prasanth - 7337599501</p>
+            <p>Haisam - 7307627168</p>
+            <p>Amritansh - 8709730535</p>
           </div>
         </div>
       </div>
@@ -160,8 +161,8 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Sudeep Ranjan Sahoo - 6372432280</p>
-            <p>Ishita Saxena - 9454777711</p>
+            <p>Nayan - 8223823011</p>
+            <p>Himanshi - 8307125572</p>
           </div>
         </div>
       </div>
@@ -173,8 +174,8 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Rajvardhan - 7898547042</p>
-            <p>Ayushman Tripathi - 6265844927</p>
+            <p>Ankit - 9350495775</p>
+            <p>Sachin - 6205042648</p>
           </div>
         </div>
       </div>
@@ -186,8 +187,9 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>M Ramesh Naik - 9392783638</p>
-            <p>B Vamshi Krishna - 7732004234</p>
+            <p>Tanishq Gupta - 8955947415</p>
+            <p>Nitin Dhankar - 9256357600</p>
+            <p>Sanjay Nimroth - 8949424140</p>
           </div>
         </div>
       </div>
@@ -199,8 +201,8 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Sanskar Pathak - 7415756769</p>
             <p>Akash Patel - 9460568832</p>
+            <p>Nayan Jain - 8223823011</p>
           </div>
         </div>
       </div>

@@ -71,12 +71,12 @@
     width: 100%;
     left: -5px;
     top: +6px;
-    border: 1px solid #c0c0c0 ;
+    border: 1px solid #c0c0c0;
   }
-    .container-3 {
-      position: relative;
-      border: 1px solid #c0c0c0 ;
-    }
+  .container-3 {
+    position: relative;
+    border: 1px solid #c0c0c0;
+  }
 
   // .frame-overlay {
   //   position: absolute;
