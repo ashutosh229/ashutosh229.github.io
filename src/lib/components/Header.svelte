@@ -54,7 +54,7 @@
         <li class="navelt">
           <a class="link" {href}>{text}</a>
         </li>
-        {#if index == 3}
+        {#if index == 4}
           <li class="logo">
             <a href="/">
               <img
