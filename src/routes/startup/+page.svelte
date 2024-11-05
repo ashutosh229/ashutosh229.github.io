@@ -64,54 +64,51 @@
       and investment opportunities.
     </p>
     <div class="event-info">
-		<!-- <img class="image" src="/assets/frame.png" alt="not found"> -->
+      <!-- <img class="image" src="/assets/frame.png" alt="not found"> -->
       <div class="text value fund image">
-		<div>
-			<h3 class="key prizeKey">Funding Amount</h3>
-		  </div>
-        <div>Over <span>&#8377;</span> 1.21 Cr</div>
+        <div>
+          <h3 class="key prizeKey">Funding Amount</h3>
+        </div>
+        <div>Over <span>&#8377;</span> 1 Cr</div>
       </div>
       <div class="text value mode fund image">
-		<div>
-			<h3 class="key modeKey">Event Mode</h3>
-		  </div>
+        <div>
+          <h3 class="key modeKey">Event Mode</h3>
+        </div>
         <!-- {data.mode}  -->Offline
       </div>
       <div class="poc-col value image">
-		<div>
-			<h3 class="key pocKey">Point Of Contact</h3>
-		  </div>
-		  <div class="poc">
-			<p>Sudeep Ranjan Sahoo<br>+91 6372 432 280</p>
-        <p>Gunthi Varshini<br>+91 80965 67259</p>
-		  </div>
+        <div>
+          <h3 class="key pocKey">Point Of Contact</h3>
+        </div>
+        <div class="poc">
+          <p>Anand Vardhan<br />+91 7488994322</p>
+          <p>Nidhi Singh<br />+91 7060228450</p>
+        </div>
       </div>
-      
-      
-      
     </div>
     <div class="event-1" style="display: flex; flex-wrap: wrap;">
       <div style="flex-basis: 50%; box-sizing: border-box; padding: 0 5px;">
-        <a href="/startup/WizardGrantt">
+        <a href="/startup/Aeternum Propel">
           <EventCard
             frameContainerWidth="28.75"
             frameContainerHeight="20"
-            sponsorName="WizardGrantt"
+            sponsorName="Aeternum Propel"
             logoName="/assets/event-images/econclave/hero_bg.jpg "
           />
         </a>
       </div>
       <div style="flex-basis: 50%; box-sizing: border-box; padding: 0 5px;">
-        <a href="/startup/EnchanteX">
+        <a href="/startup/NeXus Connect">
           <EventCard
             frameContainerWidth="28.75"
             frameContainerHeight="20"
-            sponsorName="EnchanteX"
+            sponsorName="NeXus Connect"
             logoName="/assets/event-images/econclave/Enchantrx.jpg "
           />
         </a>
       </div>
-      <div style="flex-basis: 100%; box-sizing: border-box; padding: 0 5px;">
+      <!-- <div style="flex-basis: 100%; box-sizing: border-box; padding: 0 5px;">
         <a href="/startup/MysticPitch">
           <EventCard
             frameContainerWidth="28.75"
@@ -120,16 +117,16 @@
             logoName="/assets/event-images/econclave/Mysticpitch.webp"
           />
         </a>
-      </div>
+      </div> -->
     </div>
 
     <AftermovieSection vid="Z-fvYC9p7ao" vhead="Why EC?" />
   </div>
   <a target="_blank" class="block-2" href="#">
-	<div style="padding-bottom: 7rem;">
-		<button class="rule-btn hover-effect">Register</button>
-	</div>
-</a>
+    <div style="padding-bottom: 7rem;">
+      <button class="rule-btn hover-effect">Register</button>
+    </div>
+  </a>
 </div>
 
 <style lang="scss">
@@ -166,29 +163,29 @@
     width: 100%;
   }
   .rule-btn {
-		max-width: 40vw;
-		color: #fff;
-		background: transparent;
-		border: 1px solid #464646;
-	}
-	.hover-effect {
-		outline: none;
-		width: 192px;
-		height: 46.5px;
-		border-radius: 7px;
-		font-family: LibreBaskerville;
-		font-size: 18px;
-		font-weight: 400;
-		letter-spacing: 0em;
-		text-align: center;
-		border: 1.5px solid #464646;
-		transition: all 0.4s;
-	}
-  .image{
-	width: 40vh;
-	height: 40vh;
-	background-image: url(/assets/frame.png);
-	background-size: cover;
+    max-width: 40vw;
+    color: #fff;
+    background: transparent;
+    border: 1px solid #464646;
+  }
+  .hover-effect {
+    outline: none;
+    width: 192px;
+    height: 46.5px;
+    border-radius: 7px;
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+    border: 1.5px solid #464646;
+    transition: all 0.4s;
+  }
+  .image {
+    width: 40vh;
+    height: 40vh;
+    background-image: url(/assets/frame.png);
+    background-size: cover;
   }
   .poster {
     position: relative;
@@ -240,15 +237,15 @@
     justify-content: center;
     align-items: center;
     padding: 5vw;
-	gap: 4rem;
+    gap: 4rem;
   }
   .text {
     display: flex;
     flex-direction: column;
     text-align: center;
-	gap: 2rem;
+    gap: 2rem;
     align-content: center;
-	padding-top: 10vh;
+    padding-top: 10vh;
   }
   .key {
     font-family: Cormorant;
@@ -262,7 +259,7 @@
   }
   .value {
     font-family: LibreBaskerville;
-	color: #0077A2;
+    color: #0077a2;
     font-weight: 400;
     line-height: 29px;
     letter-spacing: 0em;
@@ -275,13 +272,13 @@
   .fund {
     font-size: 4.5vh;
   }
-  .poc-col{
-	padding-top: 10vh;
+  .poc-col {
+    padding-top: 10vh;
   }
-  .poc{
-	display: flex;
-	flex-direction: column;
-	gap: 1rem;
+  .poc {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
   //////////////////////// Buttons Animation Start/////////////////////////
   /* .block-2:hover .hover-effect {
@@ -317,24 +314,23 @@
     .event-info {
       flex-direction: column;
     }
-    .frame{
+    .frame {
       height: 27.35rem;
       width: 25.71rem;
     }
-
   }
 
-  @media (max-width: 900px){
-    .frame{
+  @media (max-width: 900px) {
+    .frame {
       height: 21.88rem;
       width: 20.56rem;
     }
-    .tree{
+    .tree {
       margin-top: 2rem;
     }
   }
-  @media (max-width: 700px){
-    .frame{
+  @media (max-width: 700px) {
+    .frame {
       height: 16.41rem;
       width: 15.42rem;
     }
@@ -365,10 +361,9 @@
     .value {
       margin-bottom: 4rem;
     }
-    .frame{
-      height: 12.30rem;
+    .frame {
+      height: 12.3rem;
       width: 11.56rem;
     }
   }
-  
 </style>

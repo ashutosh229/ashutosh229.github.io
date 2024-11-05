@@ -109,15 +109,13 @@
             </div>
             <div class="poc-col value">
               <br />
-              <p>Sudeep Ranjan Sahoo</p>
-              <p>+91 6372 432 280</p>
+              <p>Anand Vardhan</p>
+              <p>+91 74889 94322</p>
               <br />
-              <p>Gunthi Varshini</p>
-              <p>+91 80965 67259</p>
+              <p>Nidhi Singh</p>
+              <p>+91 70602 28450</p>
               <p></p>
               <br />
-              <p>Hasitha Gorerpati</p>
-              <p>+91 63013 03292</p>
               <br />
             </div>
             {#if data.funding}
