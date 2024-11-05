@@ -32,6 +32,7 @@
 
 <div class="bodyy">
   <!-- <img class="background" src="/assets/Background_image.png" /> -->
+  <img class="background" src="/assets/Background_image.webp" />
   <div class="frame">
     <div class="top-text">
       <div class="head">
