@@ -120,13 +120,13 @@
       </div> -->
     </div>
 
-    <AftermovieSection vid="Z-fvYC9p7ao" vhead="Why EC?" />
+    <AftermovieSection vid="1K67YXli1yc" vhead="Why EC?" />
   </div>
-  <a target="_blank" class="block-2" href="#">
+  <!-- <a target="_blank" class="block-2" href="#">
     <div style="padding-bottom: 7rem;">
       <button class="rule-btn hover-effect">Register</button>
     </div>
-  </a>
+  </a> -->
 </div>
 
 <style lang="scss">
