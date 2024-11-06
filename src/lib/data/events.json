@@ -11,7 +11,7 @@
           {
             "id": "genai-image-challenge",
             "name": "Pixel Perfect",
-            "image": "scitech_banners/Image-not-found.png",
+            "image": "scitech_banners/pixel_perfet.jpg",
             "poster": "Image-not-found.png",
             "registerURL": "#",
             "description": "In this fun and creative challenge, participants will be provided with a target image. Using specified AI image generation tools, they must recreate an image as close to the original as possible, within a limited number of prompts and without using specific restricted phrases.",
@@ -665,8 +665,8 @@
             ]
           },
           {
-            "id": "melas-quiz",
-            "name": "MELAS Quiz",
+            "id": "general_Quiz",
+            "name": "General Quiz",
             "image": "culturals/melas.webp",
             "poster": "Image-not-found.png",
             "registerURL": "#",

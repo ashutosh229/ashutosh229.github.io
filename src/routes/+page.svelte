@@ -7,8 +7,8 @@
   import SponsorsSection from "$lib/components/SponsorsSection.svelte";
   import { collapsingNavbar } from "$lib/stores";
 
-  let meraz2022 = "ztJsklsTg8M";
-  let vhead2022 = "Aftermovie @ Meraz'22";
+  let meraz2022 = "1mJP_haSq-4";
+  let vhead2022 = "Aftermovie @ Meraz'24";
 
   $collapsingNavbar = false;
 </script>
