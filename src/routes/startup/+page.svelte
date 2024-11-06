@@ -23,7 +23,7 @@
   <div class="conclave-heading">
     <div class="head">
       <img height="62" width="62" src="/assets/Stars.png" />
-      <h1 class="event-title">STARTUPS</h1>
+      <h1 class="event-title">Entrepreneurship Conclave</h1>
       <img height="62" width="62" src="/assets/Stars.png" />
     </div>
   </div>
