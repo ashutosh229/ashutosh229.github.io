@@ -95,41 +95,66 @@
             {data.description}
           </div>
 
-          <div
-            class="event-info"
-            data-funding={data.funding ? "true" : "false"}
-          >
-            {#if data.funding}
-              <div class="text value fund">
-                <div>Over <span>&#8377;</span> {data.funding}</div>
+          {#if data.name != "NeXus Connect"}
+            <div
+              class="event-info"
+              data-funding={data.funding ? "true" : "false"}
+            >
+              {#if data.funding}
+                <div class="text value fund">
+                  <div>Over <span>&#8377;</span> {data.funding}</div>
+                </div>
+              {/if}
+              <div class="text value mode">
+                <!-- {data.mode}  -->Offline
               </div>
-            {/if}
-            <div class="text value mode">
-              <!-- {data.mode}  -->Offline
-            </div>
-            <div class="poc-col value">
-              <br />
-              <p>Anand Vardhan</p>
-              <p>+91 74889 94322</p>
-              <br />
-              <p>Nidhi Singh</p>
-              <p>+91 70602 28450</p>
-              <p></p>
-              <br />
-              <br />
-            </div>
-            {#if data.funding}
+              <div class="poc-col value">
+                <br />
+                <p>Anand Vardhan</p>
+                <p>+91 74889 94322</p>
+                <br />
+                <p>Nidhi Singh</p>
+                <p>+91 70602 28450</p>
+                <p></p>
+                <br />
+                <br />
+              </div>
+              {#if data.funding}
+                <div>
+                  <h3 class="key prizeKey">Funding Amount</h3>
+                </div>
+              {/if}
               <div>
-                <h3 class="key prizeKey">Funding Amount</h3>
+                <h3 class="key modeKey">Event Mode</h3>
               </div>
-            {/if}
-            <div>
-              <h3 class="key modeKey">Event Mode</h3>
+              <div>
+                <h3 class="key pocKey">Point Of Contact</h3>
+              </div>
             </div>
-            <div>
-              <h3 class="key pocKey">Point Of Contact</h3>
+          {:else}
+            <div class="event-info2">
+              <div class="text value mode">
+                <!-- {data.mode}  -->Offline
+              </div>
+              <div class="poc-col value">
+                <br />
+                <p>Anand Vardhan</p>
+                <p>+91 74889 94322</p>
+                <br />
+                <p>Nidhi Singh</p>
+                <p>+91 70602 28450</p>
+                <p></p>
+                <br />
+                <br />
+              </div>
+              <div>
+                <h3 class="key modeKey">Event Mode</h3>
+              </div>
+              <div>
+                <h3 class="key pocKey">Point Of Contact</h3>
+              </div>
             </div>
-          </div>
+          {/if}
         </div>
       </div>
     </div>
@@ -375,6 +400,12 @@
   .event-info {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Three columns with equal width */
+    grid-template-rows: repeat(2, 1fr);
+    margin-top: 5vw;
+  }
+  .event-info2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Three columns with equal width */
     grid-template-rows: repeat(2, 1fr);
     margin-top: 5vw;
   }
