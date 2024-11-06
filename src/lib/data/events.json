@@ -665,8 +665,8 @@
             ]
           },
           {
-            "id": "general_Quiz",
-            "name": "General Quiz",
+            "id": "melas-quiz",
+            "name": "MELAS Quiz",
             "image": "culturals/melas.webp",
             "poster": "Image-not-found.png",
             "registerURL": "#",
