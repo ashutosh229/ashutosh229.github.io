@@ -40,7 +40,7 @@
 
 <div>
   <div class="aboutmeraz">
-    <SectionHeader name="About Meraz 4.0" />
+    <SectionHeader name="About Meraz 5.0" />
   </div>
   <div class="content">
     <div class="introheading">

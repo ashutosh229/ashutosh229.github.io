@@ -225,8 +225,8 @@
 {
     "id": "v_verse",
     "name": "Virtual Verse",
-    "poster": "Image-not-found.png",
-    "registerURL": "#",
+    "poster": "v_verse.png",
+    "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSenbtNSa7TmVGCSffD5JcjRTMUmYk2wE8k1533mOlQz-kN6Kg/viewform?vc=0&c=0&w=1&flr=0",
     "description": "Virtual Verse hints at offline VR games by SES, where virtual experiences come to life. It's a dream realized, merging fantasy with technology for immersive play. Players step into VR worlds crafted by SES, blurring the lines between reality and fiction. Led by innovative minds, this project promises to redefine gaming experiences, offering a surreal journey beyond traditional gameplay.",
     "tagline":"Step Into Fantasy—Where Reality Meets the Virtual Dream!",
     "prizePool": 0,
@@ -353,36 +353,7 @@
        } 
     ]
   },
-
-
-
-
 {
-    "id": "telekinesis",
-    "name": "Telekinesis",
-    "poster": "Image-not-found.png",
-    "registerURL": "#",
-    "description": "Telekinesis is not just your ordinary gaming event. It's a mind-bending experience where you get to play the game using only the power of your mind! With the help of an EEG headband-powered Brain-Computer Interface, you'll tap into your brain's potential and unleash your telekinetic abilities to play games like Brain Breakout, Mind Pong, and many more. Simply put on the EEG headband, focus your mind, and watch as your thoughts translate into actions on the screen. No controllers are needed - just your brainpower! Plus, each game session lasts for 10 minutes, giving you plenty of time to test your telekinetic skills.",
-    "tagline": "Unlock the Power of Your Mind: Game Beyond Limits!",
-    "prizePool": 0,
-    "mode": "Offline",
-    "club": "DSAI Club",
-    "rulebook": "#",
-    "location": "IIT Bhilai",
-    "POCs": [
-        {
-            "name": "Kinshuk Gupta",
-            "contact": "9479003023"
-        },
-        {
-            "name": "Kesav Patneedi",
-            "contact": "9014041996"
-        }
-    ]
-},
-
-
- {
     "id": "Lets-Get-Hacked",
     "name": "Lets-Get-Hacked",
     "poster": "Image-not-found.png",
@@ -438,15 +409,15 @@
 {
     "id": "pitchblock",
     "name": "PitchBlock",
-    "poster": "Image-not-found.png",
-    "registerURL": "#",
+    "poster": "PitchBlock.png",
+    "registerURL": "https://forms.gle/hSq7SFSpFAZY5DM46",
     "description":"PitchBlock invites teams to present their innovative tech product ideas or startup concepts. While we are excited to see blockchain and Web3-based solutions, we also welcome a wider range of tech-focused projects, making it easier for everyone to participate. Judging will focus on creativity, feasibility, and business potential, with extra points for blockchain applications. Whether you’re a blockchain pro or just starting, PitchBlock is your opportunity to pitch your vision to industry experts and win exciting prizes!",
     "tagline":"Vision to Venture—Lead Web3!",
-    "prizePool": 0,
+    "prizePool": 10000,
     "mode": "offline",
     "club": "Blockchain at IIT Bhilai & Entrepreneurship-Cell",
-    "rulebook":"#",
-    "location": "TBD",
+    "rulebook":"https://docs.google.com/document/d/15pl26LvX-b2c1egWXjSZHyJ8I8E0tC7IQo55PVzy4VE/edit?usp=sharing",
+    "location": "L101",
     "POCs":[
        {
          "name": "Vasu Garg",

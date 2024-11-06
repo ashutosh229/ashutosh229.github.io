@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>E-Conclave | Meraz'25</title>
+  <title>E-Conclave | Meraz'24</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,7 +23,7 @@
   <div class="conclave-heading">
     <div class="head">
       <img height="62" width="62" src="/assets/Stars.png" />
-      <h1 class="event-title">E Conclave</h1>
+      <h1 class="event-title">EConclave</h1>
       <img height="62" width="62" src="/assets/Stars.png" />
     </div>
   </div>

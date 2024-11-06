@@ -169,7 +169,7 @@
             "name": "Cosmotheater",
             "poster": "Image-not-found.png",
             "image":"scitech_banners/Image-not-found.png",
-            "registerURL": "#",
+            "registerURL": "https://ci5.googleusercontent.com/proxy/YS2urSQku9HCAYELvRcb_dyY0KDWxuobqCIE2EbaPUdpH_RETLa2tRu5A1b8TRb4NSFkL9hqtqQ9JocQR7hq3LjOWEbc63VOA523zoAHGFsciKgIUNk8zouODtf70jjPEt5YGGVAOJ9oY88=s0-d-e1-ft#https://drive-thirdparty.googleusercontent.com/256/type/application/vnd.google-apps.form",
             "description": "The Cosmotheater is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theater with the expansive knowledge of astronomy, a cosmotheater serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
             "tagline":"Explore the Universe, Experience the Wonder.",
             "prizePool": 0,
@@ -194,13 +194,13 @@
             "name": "AeroChase",
             "poster": "Image-not-found.png",
             "image":"scitech_banners/Image-not-found.png",
-            "registerURL": "#",
+            "registerURL": "https://forms.gle/NJgzursZjiJsRPK96",
             "description": "In this exciting drone racing event, teams will be formed with the primary objective of designing, building, and customizing their own drones from scratch. Each team will be responsible for not only constructing the drone but also ensuring it meets the performance and technical specifications required to excel in various competitions like Ring of fire",
             "tagline":"Soar to Victory : Where Innovation Meets Flight",
             "prizePool": 12500,
             "mode": "offline",
             "club": "Space Exploration Society",
-            "rulebook":"#",
+            "rulebook":"https://docs.google.com/document/d/1iv4VRR3c6V6_Z_6LFeRue8igNlwiBwxZrrAGw6gMgBk/edit?usp=sharing",
             "location": "TBD",
             "POCs":[
                {
@@ -380,30 +380,7 @@
         
         
         
-        {
-            "id": "telekinesis",
-            "name": "Telekinesis",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/telekinesis2.webp",
-            "registerURL": "#",
-            "description": "Telekinesis is not just your ordinary gaming event. It's a mind-bending experience where you get to play the game using only the power of your mind! With the help of an EEG headband-powered Brain-Computer Interface, you'll tap into your brain's potential and unleash your telekinetic abilities to play games like Brain Breakout, Mind Pong, and many more. Simply put on the EEG headband, focus your mind, and watch as your thoughts translate into actions on the screen. No controllers are needed - just your brainpower! Plus, each game session lasts for 10 minutes, giving you plenty of time to test your telekinetic skills.",
-            "tagline": "Unlock the Power of Your Mind: Game Beyond Limits!",
-            "prizePool": 0,
-            "mode": "Offline",
-            "club": "DSAI Club",
-            "rulebook": "#",
-            "location": "IIT Bhilai",
-            "POCs": [
-                {
-                    "name": "Kinshuk Gupta",
-                    "contact": "9479003023"
-                },
-                {
-                    "name": "Kesav Patneedi",
-                    "contact": "9014041996"
-                }
-            ]
-        },
+        
         
         
          {
@@ -506,12 +483,12 @@
             "id": "beyond_sight",
             "name": "Beyond Sight",
             "image": "culturals/beyond-sight.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1RFrK8agbzHMEFzsUsk-TTVP94_hx_3j5NRwiUfgwqnM/edit?usp=drive_link",
+            "poster": "beyond_sight.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSc1wZX9tQ2PLl9Rg5cUUk28KOihpcORjcJUjHGPFSXAHoweow/viewform?usp=sf_link",
+            "rulebook": "https://docs.google.com/document/d/1-MX5QNgCcA4WVoK0Dn3N2i1pxU3b-KUp/edit?usp=drive_link&ouid=114702325808341743509&rtpof=true&sd=true",
             "description": "A blindfold painting duo painting competition",
             "tagline": "Brushstrokes and Blunders: A Hilarious Art Adventure!",
-            "prizePool": "6000",
+            "prizePool": "4500",
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -529,9 +506,9 @@
             "id": "luminous_ink",
             "name": "Luminous Ink",
             "image": "culturals/luminous_ink.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1xG6d6rlbBxEKkbgX7U-WDOnNVfVfRNW7CMjIbEX6xJY/edit?usp=drive_link",
+            "poster": "luminous_ink.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLScCBw9zuAW4Zd3zHREOoE6QMzrIL5zOH5Nznrrf4EXxlQPh6A/viewform?usp=pp_url",
+            "rulebook": "https://docs.google.com/document/d/1xn7b-HSwIq5SQIqi585Lld0eQHVPzZKn/edit?usp=drivesdk&ouid=110739194655782346005&rtpof=true&sd=true",
             "description": "A tattoo Making Competition",
             "tagline": "Uncover your hidden glow: A night of luminous, temporary tattoos!",
             "prizePool": 4500,
@@ -552,12 +529,12 @@
             "id": "bridging-the-blanks",
             "name": "Bridging the Blanks",
             "image": "culturals/bridging-the-blanks.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1JpPBDnNEhG2W2PTcbiYwF2p2XcctB2uXIueo3_-OmX0/edit?usp=drive_link",
+            "poster": "bridging_blanks.webp",
+            "registerURL": "https://forms.gle/VgM9Q1GWNkMvq6dCA",
+            "rulebook": "https://docs.google.com/document/d/1GfsJWBRyitm78acCXcR4WD5nme6WzXVo3DJzf_5GEug/edit?usp=sharing",
             "description": "Ab online theme based art Competition",
             "tagline": "Fill the void, bridge the gap, let your artistic voice clap!",
-            "prizePool": 4500,
+            "prizePool": 2000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -571,14 +548,14 @@
             "id": "in10sity",
             "name": "In10sity",
             "image": "culturals/In10sity.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1NoI7_7b5Vze17CwAX0EjNbqciiqwVp5UH06O1hz3Mwo/edit?usp=drive_link",
+            "poster": "intensity.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSfSnSWBcuqGv0rfr4twj-T-Ol1zNYegsmdJnfpIyqDK8awvKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link",
+            "rulebook": "https://drive.google.com/file/d/1ex3MGmjnQl6Uv4TvEwTlY61jT4JSoDob/view?usp=sharing",
             "description": "An offline group dance competition",
             "tagline": "Step It Up: Dance Beyond Boundaries!",
-            "prizePool": 6000,
+            "prizePool": 8000,
             "mode": "Offline",
-            "location": "Offline (Main Stage)",
+            "location": "LH500",
             "POCs": [
               {
                 "name": "Bhoomi Goyal",
@@ -594,11 +571,11 @@
             "id": "dance-solitaire",
             "name": "Dance Solitaire",
             "image": "culturals/dance-solitaire.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "poster": "DSF.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSfSnSWBcuqGv0rfr4twj-T-Ol1zNYegsmdJnfpIyqDK8awvKw/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link",
             "rulebook": "https://docs.google.com/document/d/1pgkGSjBZh9OJuF4cG3NuXOoJrhjmn9Y_tbIhWmVqQCM/edit?usp=drive_link",
             "description": "An offline solo dance competition",
-            "prizePool": 5000,
+            "prizePool": 6000,
             "mode": "Offline",
             "location": "Offline (Main Stage)",
             "POCs": [
@@ -616,12 +593,12 @@
             "id": "virtual-groove",
             "name": "Virtual Groove",
             "image": "culturals/virtual-groove.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "poster": "virtual_groove.webp",
+            "registerURL": "https://forms.gle/UsA5U1TRVi56Ec6Z8",
             "rulebook": "https://docs.google.com/document/d/1KmBOdQsRgbU3WNki77mG9daquUI1nlXyPPC5SR17mSY/edit?usp=drive_link",
             "description": "An online solo dance competition",
             "tagline": "Dance Beyond Distance, Groove Online.",
-            "prizePool": 0,
+            "prizePool": 3000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -635,12 +612,12 @@
             "id": "euphony",
             "name": "Euphony",
             "image": "culturals/Euphony.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1TRlmlMbvV7jHT6rLykyGhFHmvyg-Kgtz/edit",
+            "poster": "euphony.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSeeIVQPHdaJc33_PeSyTS2aAiGk74N8ET3Bs-Q8lVU9Uy4EQg/viewform?usp=pp_url",
+            "rulebook": "https://docs.google.com/document/d/1TRlmlMbvV7jHT6rLykyGhFHmvyg-Kgtz/edit#heading=h.2et92p0",
             "description": "An Online Singing competition",
             "tagline": "Where screen transform into stages!!",
-            "prizePool": 4500,
+            "prizePool": 3000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -658,12 +635,12 @@
             "id": "surreal",
             "name": "SurReal",
             "image": "culturals/Surreal.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1HctLJt5zzTKxO1pV8wRMHV-b1QDZ-kDIakj1gDEHwbk/edit?usp=drive_link",
+            "poster": "surreal.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSedKb2OEjuZZuqY1rdka53AFiUSJFSg1SAJ_RDfb7MfSQ-U2A/viewform?usp=sf_link",
+            "rulebook": "https://docs.google.com/document/d/19zE9QrVC5Q96D3_eTnszdvKsS_oYeAcM/edit?usp=drive_link&ouid=118170934329617851217&rtpof=true&sd=true",
             "description": "An offline singing competition",
             "tagline": "Soulful sur, rhythmic taal",
-            "prizePool": 7000,
+            "prizePool": 6000,
             "mode": "Offline",
             "location": "Offline (Main Stage)",
             "POCs": [
@@ -681,39 +658,39 @@
             "id": "shredded-battle-of-bands",
             "name": "SHREDDED:Battle of Bands",
             "image": "culturals/Shredded.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1Kt0l5y3ArfzQBHMR5KKXzU1rDkqnyVJNLovmIi3Pl90/edit?usp=drive_link",
+            "poster": "BOB.webp",
+            "registerURL": "https://forms.gle/MmL85PTC4YRj9Tjw6",
+            "rulebook": "https://docs.google.com/document/d/1lwj5nLsraDSXMtsRoJqM4M08aq6W0U1lsgby-nJPg5U/edit#heading=h.30j0zll",
             "description": "Band Competition",
             "tagline": "Where Music Sparks the Fight!",
-            "prizePool": 22000,
+            "prizePool": 20000,
             "mode": "Offline",
             "location": "Offline (Main Stage)",
             "POCs": [
               {
                 "name": "Adarsh Panjwani",
                 "contact": "7898263842"
-              },
-              {
+            },
+            {
                 "name": "Ayush Panwar",
                 "contact": "8979189680"
-              },
-              {
-                "name": "Yashasvi Saxena",
-                "contact": "97924 07662"
-              }
+            },
+            {
+                "name": "Amritansh Ranjan",
+                "contact": "8709730535"
+            }
             ]
           },
           {
             "id": "cinemeraz",
             "name": "CinéMeraz",
             "image": "culturals/cinemeraz.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/file/d/1PXac4gVXUVJKwSdQvz6NlRW3RoMmvBQk/edit?usp=docslist_api&filetype=msword",
+            "poster": "cinemeraz.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSfXKBYBjCZ6GgLoZyx74EBbqXhxMdH4xzpowEW9b34ir4lUJA/viewform?usp=sf_link",
+            "rulebook": "https://docs.google.com/document/d/1PXac4gVXUVJKwSdQvz6NlRW3RoMmvBQk/edit",
             "description": "CinéMeraz is all about capturing special moments of “ Meraz”  in your smartphone/camera while enjoying them. This is a one-person event in which the participant has to record the short clips of “Meraz” right from the beginning of the fest, then at last have to submit a compiled video made up of these short clips.",
             "tagline": "CinéMeraz: Unleash Your Meraz Moments, Capture. Connect. Compile.",
-            "prizePool": 6000,
+            "prizePool": 3000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -731,12 +708,12 @@
             "id": "sus",
             "name": "SUS - Shot Ur Story",
             "image": "culturals/Cinemaestro.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1LYZs7xRl2aVjXUO3hzBbf_lIi43fdYQbr26qA3l0cIg/edit?usp=drive_link",
+            "poster": "sus.webp",
+            "registerURL": "https://docs.google.com/forms/d/1e5MsCNGFfaV189Cxa7Mw2Ot-cqFRGK5Pzo0DLaHv_lA/viewform",
+            "rulebook": "https://docs.google.com/document/d/11jQT8WbhCtv7WDRHX8EeQ6uvepoTyTk7InE_I07JDkc/edit?usp=drivesdk",
             "description": "This will be an open-to-all contest as we will be accepting online submissions of short movies through a Google form.",
             "tagline": "Embark on a Cinematic Odyssey: Craft Your Narrative Through the Lens",
-            "prizePool": 12000,
+            "prizePool": 7000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -754,12 +731,12 @@
             "id": "dejavu",
             "name": "Déjà vu",
             "image": "culturals/deja.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "poster": "dejavu.webp",
+            "registerURL": "https://docs.google.com/forms/d/1AqF6fDqRJyL73AdNvJF4E3WSZexODB3A-80aBayziwc",
             "rulebook": "https://docs.google.com/document/d/1J920YhlDmnPbCzpz9KAs9XW2XjwXBKvu/edit?usp=drivesdk&ouid=109467951867640822767&rtpof=true&sd=true",
             "description": "This will be an open-to-all contest as we will be accepting online submissions of a small segment from a movie or web series based on the theme provided.",
             "tagline": "Wait a minute! I've seen this before...",
-            "prizePool": 7000,
+            "prizePool": 4500,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -774,38 +751,38 @@
             ]
           },
           {
-            "id": "melas-quiz",
-            "name": "MELAS Quiz",
+            "id": "general_quiz",
+            "name": "General Quiz",
             "image": "culturals/melas.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1rLn2ss9bvD5PK-cAIuSQI_ocChPx4S0re6RfRZn_UKA/edit?usp=drive_link",
+            "poster": "general_quiz.webp",
+            "registerURL": "https://forms.gle/d7vHmWfPUCSr3pge9",
+            "rulebook": "https://docs.google.com/document/d/1bcSiSkpemhc8CwspVQpCsnpTqai3H8w4/edit?usp=sharing&ouid=114094909165928086728&rtpof=true&sd=true",
             "description": "A fun quiz on topics Music, Entertainment, Literature, Arts and Sports",
-            "tagline": "Sawaalo ka MELA",
-            "prizePool": 4500,
+            "tagline": "Finally, a Place to Show Off All That Couch Coaching!",
+            "prizePool": 5000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
               {
-                "name": "Aarya Shadangule",
-                "contact": "9579013256"
-              },
-              {
-                "name": "Tancia Boro",
-                "contact": "7002108549"
-              }
+                "name": "Aditya Saini",
+                "contact": "8532832702"
+            },
+            {
+                "name": "Boby Bhati",
+                "contact": "9873707467"
+            }
             ]
           },
           {
             "id": "nsfw-quiz",
             "name": "NSFW quiz",
             "image": "culturals/nsfw.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1XsNQo5i-9pZayAI8KnOJaB6vG9AdDsrYFnUCJlSWb0U/edit?usp=drive_link",
+            "poster": "nsfw.webp",
+            "registerURL": "https://forms.gle/MLRHvmK9EnrscfYNA",
+            "rulebook": "https://docs.google.com/document/d/1l_fxNElV2klnsciBz1LaxS9Nd60u25Pc/edit?usp=sharing&ouid=114094909165928086728&rtpof=true&sd=true",
             "description": "Not safe for work 🤫",
             "tagline": "Do not peek👀",
-            "prizePool": 4500,
+            "prizePool": 5000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -823,12 +800,12 @@
             "id": "phantom-ui-ux",
             "name": "Phantom - UI/UX",
             "image": "culturals/Phantom.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "poster": "phantom.webp",
+            "registerURL": "https://docs.google.com/forms/d/1dqUpaKXA7NA6V6X9UM5LgWjETaaes2H5jpTpGabEwZ4/edit?ts=672a1ee3",
             "rulebook": "https://docs.google.com/document/d/15zUopo6Aw2xGtH1AMl3xpy1wWa01ptIV/edit?usp=drive_link&ouid=117155742661659485288&rtpof=true&sd=true",
             "description": "",
             "tagline": "",
-            "prizePool": 4500,
+            "prizePool": 3500,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -846,12 +823,12 @@
             "id": "artvile",
             "name": "Artvile - Illustrator competition ",
             "image": "culturals/product-design.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "https://unstop.com/p/artville-meraz-40-indian-institute-of-technology-iit-bhilai-920451",
-            "rulebook": "https://docs.google.com/document/d/1_oZx5O7jO_oO1jdBrWpe34ZpV6vA3M4xVQjd9ndd7ug/edit?usp=drivesdk",
+            "poster": "artville.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSeJGAxhl0WftZdprg8pOsfnmUnsB7ochF0TyCaNiiOd49i8wA/viewform?usp=sf_link",
+            "rulebook": "https://docs.google.com/document/d/1wpoU2Y3YfCkxjptLX1JOHvdaEnT-S-mN/edit?usp=sharing&ouid=107647147866967408175&rtpof=true&sd=true",
             "description": "Are you an art lover ? Here’s the opportunity for you to show all your creativity through illustrations. Meraz 4.0 provides you a platform to be creative and bag a lot of prizes. Just be Creative!",
             "tagline": "Unleash Your Imagination: Illustrate the Extraordinary!",
-            "prizePool": 4500,
+            "prizePool": 3500,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -865,12 +842,12 @@
             "id": "murder-mystery",
             "name": "Murder Mystery",
             "image": "culturals/Murder-Mystery.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/172szki-WTVn26cBgcu1kH87KHuVoAJG8iJcInk280lo/edit?usp=drive_link",
+            "poster": "Murder.webp",
+            "registerURL": "https://docs.google.com/forms/d/1AcGtdJPE37OfUYmfXKpV7K5QUMMLV5LgBXCA9E0tbpo/viewform",
+            "rulebook": "https://docs.google.com/document/d/1h5sf5ppI2HQy16DEfkLWnBFgomPOqYOXQ3yYjTTSgzA/edit?usp=sharing",
             "description": "A mystery solving event for detectives!!",
             "tagline": "Bringing out the Sherlock Holmes in you🧐",
-            "prizePool": 7000,
+            "prizePool": 5000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -888,12 +865,12 @@
             "id": "photo-of-the-fest-candid-edition",
             "name": "Photo Of the Fest",
             "image": "culturals/photo-fest.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/14_XENskXv27joZezOaiN8O3f9Etotme-F8cRsqmMhP8/edit?usp=drive_link",
+            "poster": "photo_of_the_fest.webp",
+            "registerURL": "https://forms.gle/rAZQZWF5JeSVHWHH6",
+            "rulebook": "https://docs.google.com/document/d/14_XENskXv27joZezOaiN8O3f9Etotme-F8cRsqmMhP8/edit?usp=sharing",
             "description": "An immersive photography event capturing spontaneous moments and genuine emotions. Unleash your creativity, explore candid shots, and celebrate the beauty of unposed moments. Whether you're a seasoned photographer or a casual enthusiast, this event is your canvas to capture life's unscripted stories through the lens",
             "tagline": "Unveil Life's Unscripted Beauty Through Your Lens",
-            "prizePool": 4500,
+            "prizePool": 1000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -911,12 +888,12 @@
             "id": "online-theme-photography",
             "name": "Online Theme Photography",
             "image": "culturals/otp.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1cAElgG8KitliAG1XXtnWNgB8Ya8lMjTfVvdPfV9qT34/edit?usp=drive_link",
+            "poster": "online_photography.webp",
+            "registerURL": "https://forms.gle/bm6EgV8aSLzZ4N3c8",
+            "rulebook": "https://docs.google.com/document/d/1KNixplETyw1NpqFFPGI1RKtoI_-aF0_FOXi4bB4pFgA/edit",
             "description": "Participate  for a captivating virtual experience where participants can showcase their unique perspectives on the given theme",
             "tagline": "Capture, Conquer, Clasp rewards",
-            "prizePool": 6000,
+            "prizePool": 5000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -934,9 +911,9 @@
             "id": "shutter-quest",
             "name": "Shutter Quest",
             "image": "culturals/shatter-quest.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/16qQyLNvfezDojtn8zv2RrxmgKdNI99xuPmCl7206qS0/edit?usp=drive_link",
+            "poster": "shutter_quest.webp",
+            "registerURL": "https://forms.gle/69JcJ8sTyDmeirf28",
+            "rulebook": "https://docs.google.com/document/d/1JMU5n50UoOguo_NeZLN1hJZPP4RkFZzqT9rE9EbzBfI/edit?usp=sharing",
             "description": "Participants will draw themes or specific items randomly, and the challenge is to capture a stunning photo inspired by their chosen element. It's a journey of spontaneity and creativity, turning ordinary moments into extraordinary images",
             "tagline": "",
             "prizePool": 4500,
@@ -957,12 +934,12 @@
             "id": "mun",
             "name": "IIT Bh-Model United Nations",
             "image": "culturals/Mun.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1Zu-nxf2ROSEBRdhP4fj5ozUYVWIul1-GWWVApuFJhgk/edit?usp=drive_link",
+            "poster": "mun.webp",
+            "registerURL": "https://forms.gle/An9oiDpd9QTizoDy9",
+            "rulebook": "https://docs.google.com/document/d/1qjf2SgaR-ja78HeNmnxDW8YwDUBItUB4tjrvw-uufE0/edit?usp=drivesdk",
             "description": "Model United Nations",
             "tagline": "Where The Future Leaders of the World Meet",
-            "prizePool": 10000,
+            "prizePool": 11000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -980,12 +957,12 @@
             "id": "attire-spectra",
             "name": "Attire Spectra",
             "image": "culturals/Attire-spectra.jpg",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "#",
+            "poster": "attire_spectra.webp",
+            "registerURL": "https://forms.gle/U7WijeD1RvbsVxit8",
+            "rulebook": "https://docs.google.com/document/d/18TWtKMpIvA9YCqA44zoLy1VBF4VRRpuxVjG-QcBDbFc/edit?usp=sharing",
             "description": "#",
             "tagline": "Defy the norm. Redefine fashion",
-            "prizePool": 6000,
+            "prizePool": 7000,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -1002,13 +979,13 @@
           {
             "id": "art_hunt",
             "name": "Art Hunt",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "image": "culturals/art_hunt (1).webp",
+            "poster": "art_hunt.webp",
+            "registerURL": "https://docs.google.com/forms/d/1_Zg7oklgOJH2kMozHeYpa5U2Fwdx5-4KTs29_Fqwirw/edit",
             "rulebook": "https://docs.google.com/document/d/1SaOLkhnHCHHyCeDna65Hk4rZNOhNLXQDt5gnYMU6Rvo/edit?usp=drive_link",
             "description": "",
             "tagline": " Unlock the clues, Discover the art, Claim the treasure!",
-            "prizePool": 4500,
+            "prizePool": 2500,
             "mode": "Offline",
             "location": "Offline",
             "POCs": [
@@ -1025,13 +1002,13 @@
           {
             "id": "promptopia",
             "name": "Promptopia",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "image": "culturals/prompt.webp",
+            "poster": "promptopia.webp",
+            "registerURL": "https://forms.gle/FyeWUParwyyJj7QE6",
             "rulebook": "https://docs.google.com/document/d/1TDLhqGVgDm7KvotKaUhhM0X-Nw_we1ic2Fb2W-t5YCA/edit?usp=sharing",
             "description": "Promptopia is a prompt writing challenge where participants are presented with a variety of intriguing prompts. Each participant selects one prompt and crafts a unique, imaginative piece based on it. To add an extra twist, bonus elements are provided daily, which participants can incorporate into their work to enhance their creativity and storytelling.",
             "tagline": "From a Single Spark, a Story Ignites!",
-            "prizePool": 4500,
+            "prizePool": 2000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -1048,13 +1025,13 @@
           {
             "id": "meme_o_rama",
             "name": "Meme-O-Rama",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/14xK9HE_a6LNX9aaBugSqYDgKvwK_eSWvVReglCrwaqg/edit?usp=sharing",
+            "image": "culturals/meme.webp",
+            "poster": "meme-o-rama.webp",
+            "registerURL": "https://forms.gle/qfn9JtjksDryohwdA",
+            "rulebook": "https://drive.google.com/file/d/1beDv3btoahCMtT7I27-YhHcGkEWQ63ec/view?usp=sharing",
             "description": "Meme-O-Rama is an online Meme competition where participants create and submit memes based on some specific themes. Participants can compete individually or in small teams, creating original memes that adhere to specific guidelines. Memes are posted on an Instagram page. They are judged based on creativity, relevance to the theme, and audience engagement. The top three memes are awarded prizes based on a combination of judges' scores and public reactions.",
             "tagline": "Meme it to Win it!",
-            "prizePool": 4500,
+            "prizePool": 2000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -1071,13 +1048,13 @@
           {
             "id": "symphoria",
             "name": "Symphoria",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
+            "image": "culturals/symphonia.webp",
+            "poster": "symphoria.webp",
+            "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSd9tYhQc14k5HH9y1uPEi3JYQOLgS1clNoYVuqR9OcCVFw2Lw/viewform?usp=sf_link",
             "rulebook": "https://docs.google.com/document/d/15UBmOykUHb0ADwvtGYeVvtwBnz4klz-2nsO0eyE3rYc/edit?usp=sharing",
             "description": "Listen up, instrumental legends! The virtual spotlight is yours—step up and let your melodies shine in our Online Solo Instrumental Competition. Whether you rule the piano keys, shred on the guitar, or command any other instrument, this is your moment to display your talent and innovation. 🎶🎸🎹",
             "tagline": "Hit the right notes and show the world your sound—it's time to play your way to the crown!",
-            "prizePool": 4500,
+            "prizePool": 3000,
             "mode": "Online",
             "location": "Online",
             "POCs": [
@@ -1094,13 +1071,13 @@
           {
             "id": "abhivyakti",
             "name": "अभिव्यक्ति",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/129zWDUBc3nU7EinDetaGF3mPvDWSKtSrw7mlvx2SZ20/edit",
+            "image": "culturals/abhivyakti.webp",
+            "poster": "abhivakyati_poster.webp",
+            "registerURL": "https://docs.google.com/forms/d/1XQRQVOWvHEvQnjnObn5R6HC6Khvd3HjLemd_lOydLr4/edit?chromeless=1",
+            "rulebook": "https://docs.google.com/document/d/129zWDUBc3nU7EinDetaGF3mPvDWSKtSrw7mlvx2SZ20/edit?usp=sharing",
             "description": "\"अभिव्यक्ति\" एक एकल काव्य प्रतियोगिता है, जिसमें प्रतिभागी अपनी मौलिक हिंदी रचनाएँ प्रस्तुत करेंगे। प्रतियोगिता दो चरणों में आयोजित की जाएगी: पहले चरण में प्रतिभागियों की रचनाओं की गहराई, मौलिकता और शब्दों की रचनात्मकता के आधार पर चयन किया जाएगा, और अंतिम चरण में चयनित प्रतिभागियों को दर्शकों के समक्ष अपनी प्रस्तुति देने का अवसर मिलेगा। अंतिम चरण में उन्हें दर्शकों की प्रतिक्रिया, आवाज और उच्चारण, भावभंगिमा और समग्र प्रभाव के आधार पर अंक दिए जाएंगे। प्रतियोगिता में नियमों का कड़ाई से पालन करना अनिवार्य है, जिसमें प्रॉप्स या अनुचित भाषा का उपयोग वर्जित है, और प्रतिभागियों को अपनी रचना की हार्ड कॉपी जमा करनी होगी। न्यायाधीश का निर्णय अंतिम और बाध्यकारी होगा।",
             "tagline": "स्वर में छिपी कला, शब्दों में अभिव्यक्ति की शक्ति",
-            "prizePool": 4500,
+            "prizePool": 6000,
             "mode": "Online + Offline",
             "location": "Online + Offline",
             "POCs": [
@@ -1115,28 +1092,32 @@
             ]
           },
           {
-            "id": "Sports_Quiz",
-            "name": "Sports Quiz",
-            "image": "culturals/Image-not-found.png",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "rulebook": "https://docs.google.com/document/d/1vZphG1uvGZRtjANoJBzDgUdsUEqqdi2k/edit",
-            "description": "Get ready for an action-packed, fun-filled sports quiz at MERAZ, where your sports knowledge will be put to the ultimate test! Dive into thrilling rounds featuring famous sports personalities like Sachin Tendulkar, Usain Bolt, and Serena Williams. Discover record-breaking feats, legendary figures, and quirky facts. This quiz promises to be an unforgettable experience, with intriguing trivia and mind-boggling stats. It’s a first in MERAZ history, so join us, have a blast, and leave with a head full of fascinating sports facts!",
-            "tagline": "Finally, a Place to Show Off All That Couch Coaching!",
-            "prizePool": 4500,
-            "mode": "Offline",
-            "location": "Offline",
-            "POCs": [
-              {
-                "name": "Aditya Saini",
-                "contact": "8532832702"
-              },
-              {
-                "name": "Bobby Bhati",
-                "contact": "9873707467"
-              }
-            ]
-          }
+        "id": "Pukaar",
+        "name": "Pukaar",
+        "image" : "culturals/pukaar (1).webp",
+        "poster": "pukaar.webp",
+        "registerURL": "https://forms.gle/waJRVLVSoUN6LBP5A",
+        "rulebook": "https://docs.google.com/document/u/0/d/1K4gl83NL6NWOYh0N2XT8kHALaciRHx4Q/mobilebasic",
+        "description": "Experience the raw energy of Nukkad Natak!. This powerful street play brings social issues to life with passion, humor, and heart. With minimal props and dynamic performances, it’s an exciting, spontaneous way to engage the crowd and make a real impact. Whether you love acting, music, or just want to make a difference, join us to be part of this vibrant, interactive theater that speaks directly to the people. Let’s create something unforgettable together!",
+        "tagline": "Voices of the Street, Echoes of Change!",
+        "prizePool": 10000,
+        "mode": "Offline",
+        "location": "Area between LH500 and LH300",
+        "POCs": [
+            {
+                "name": "Tanya Singh",
+                "contact": "7524030672"
+            },
+            {
+                "name": "Manish Ahire",
+                "contact": "7798442297"
+            },
+            {
+            	"name" : "Suraj Kumar",
+            	"contact": "6207918454"
+            }
+        ]
+    }
         ]
       }
     ]
