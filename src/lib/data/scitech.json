@@ -1,8 +1,33 @@
 [
+  {
+    "id": "ai-hackathon",
+    "name": "Celestial Quest: AI Challenge",
+    "poster":"ai_hackathon.png",
+    "registerURL":"https://forms.gle/zbXtoDUpJHw97oYQA ",
+    "description": "Celestial Quest encourages participants to dive into the depths of AI by developing models that can perform complex image classification using latent embeddings. Participants will tackle a unique problem statement while building skills and showcasing creativity.",
+    "tagline": "Where AI Meets Limitless Ideas",
+    "prizePool": 10000,
+    "mode": "Online",
+    "club": "DSAI Club",
+    "rulebook": "https://docs.google.com/document/d/172xYHtv3aKn9tfM7MgGvda-uPbFfyhmx/edit?usp=sharing&ouid=117833473056175351554&rtpof=true&sd=true ",
+    "location": "IIT Bhilai",
+    "POCs": [
+        {
+            "name": "Ashutosh Kumar Jha ",
+            "contact": ":9051042158"
+        },
+        {
+            "name": "Kesav Patneedi",
+            "contact": ": 9014041996"
+        }
+    ]
+},
+
+
 	{
 		"id": "genai-image-challenge",
 		"name": "Pixel Perfect",
-		"poster": "Image-not-found.png",
+		"poster": "pixel_perfect.webp",
 		"registerURL": "#",
 		"description": "In this fun and creative challenge, participants will be provided with a target image. Using specified AI image generation tools, they must recreate an image as close to the original as possible, within a limited number of prompts and without using specific restricted phrases.",
 		"tagline": "Unleash Creativity, Match the Image!",
@@ -22,6 +47,31 @@
 		    }
 		]
 	},
+  {
+    "id": "AutomateX",
+    "name": "AutomateX",
+    "poster": "Automatex.webp", 
+    "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
+    "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-worldproblems by the end of the hackathon.",
+    "tagline":"Innovating Daily Life with Google Solutions !",
+    "prizePool": 15000,
+    "mode": "Online",
+    "club": "Openlake & GDG IIT Bhilai",
+    "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
+    "location": "IIT Bhilai",
+    "POCs":[
+      {
+        "name": "Ashutosh",
+        "contact": ": 9051042158"
+      },
+       {
+         "name": "Om Anand",
+         "contact": ": 8292251435"
+       }
+
+    ]
+  },
+
  {
     "id": "Electronics_Enigma",
     "name": "Electronics Enigma",
@@ -45,6 +95,31 @@
        } 
     ]
   },
+
+  {
+    "id": "Wave_Hack",
+    "name": "Wave Hack",
+    "poster": "Image-not-found.png",
+    "registerURL": "#",
+    "description": "Wave Hack is an online hackathon where participants need to solve a problem statement by brainstorming. This years domain is signal processing and communication system. The event emphasizes on the knowledge of Amplitude modulation, frequency spectrum, noise filtering etc., which are extensively used in industries. Solve the problem statement in given time and earn exciting cash award !",
+    "tagline":"Extraction of the Encoded !",
+    "prizePool": 12000,
+    "mode": "Online",
+    "club": "Electromos",
+    "rulebook":"#",
+    "location": "IIT Bhilai",
+    "POCs":[
+       {
+         "name": "Rohit Dhamale",
+         "contact": ": 7057396673"
+       },
+       {
+         "name": "Omendra Upadhyay",
+         "contact": ": 8247589701"
+       } 
+    ]
+  },
+
 
 
 
@@ -105,7 +180,7 @@
     "registerURL": "#",
     "description": "In this exciting drone racing event, teams will be formed with the primary objective of designing, building, and customizing their own drones from scratch. Each team will be responsible for not only constructing the drone but also ensuring it meets the performance and technical specifications required to excel in various competitions like Ring of fire",
     "tagline":"Soar to Victory : Where Innovation Meets Flight",
-    "prizePool": 0,
+    "prizePool": 12500,
     "mode": "offline",
     "club": "Space Exploration Society",
     "rulebook":"#",
