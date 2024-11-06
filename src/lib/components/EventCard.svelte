@@ -62,7 +62,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border: 2px solid #c5a584;
+    border: 2px solid #c0c0c0;
   }
 
   .sponsor-name {
