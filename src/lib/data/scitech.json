@@ -76,7 +76,7 @@
   "prizePool":12500 ,
   "mode": "offline",
   "club": "Space Exploration Society",
-  "rulebook":"AEROCHASE",
+  "rulebook":"https://docs.google.com/document/d/1iv4VRR3c6V6_Z_6LFeRue8igNlwiBwxZrrAGw6gMgBk/edit?usp=sharing",
   "location": "TBD",
   "POCs":[
      {
