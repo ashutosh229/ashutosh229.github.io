@@ -7,463 +7,322 @@
         "separatePage": true,
         "card-width": 14,
         "card-height": 20,
-        "entries":[
-          {
-            "id": "ai-hackathon",
-            "name": "Celestial Quest: AI Challenge",
-            "image":"scitech_banners/dsai_hack.webp",
-            "poster":"ai_hackathon.png",
-            "registerURL":"https://forms.gle/zbXtoDUpJHw97oYQA ",
-            "description": "Celestial Quest encourages participants to dive into the depths of AI by developing models that can perform complex image classification using latent embeddings. Participants will tackle a unique problem statement while building skills and showcasing creativity.",
-            "tagline": "Where AI Meets Limitless Ideas",
-            "prizePool": 10000,
-            "mode": "Online",
-            "club": "DSAI Club",
-            "rulebook": "https://docs.google.com/document/d/172xYHtv3aKn9tfM7MgGvda-uPbFfyhmx/edit?usp=sharing&ouid=117833473056175351554&rtpof=true&sd=true ",
-            "location": "IIT Bhilai",
-            "POCs": [
-                {
-                    "name": "Ashutosh Kumar Jha ",
-                    "contact": ":9051042158"
-                },
-                {
-                    "name": "Kesav Patneedi",
-                    "contact": ": 9014041996"
-                }
-            ]
+        "entries":[{
+          "id": "AutomateX",
+          "name": "AutomateX",
+          "poster": "Automatex.webp",
+        "image":"scitech_banners/automatex.webp",
+         "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
+          "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-world problems by the end of the hackathon.",
+          "tagline":"Innovating Daily Life with Google Solutions !",
+          "prizePool": 15000,
+          "mode": "Online",
+          "club": "Openlake & GDG IIT Bhilai",
+          "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
+          "location": "IIT Bhilai",
+          "POCs":[
+            {
+              "name": "Ashutosh",
+              "contact": ": 9051042158"
+            } ,
+             {
+               "name": "Om Anand",
+               "contact": ": 8292251435"
+             }
+         ]
+        },
+        {
+          "id": "F.I.N.D",
+          "name": "F.I.N.D (Frequency Identification and Noise Diminution)",
+          "poster": "Image-not-found.png",
+          "image":"scitech_banners/smart_automation.webp",
+          "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSdQXuPxxQUzvBVc9FY0_tbz8-Nr4jigvQRVy5MtGGKOCE1lSw/viewform",
+          "description": "FIND is an online hackathon where participants tackle a problem statement through collaborative brainstorming. This year's theme centers on signal processing and communication systems, with a focus on topics such as amplitude modulation, frequency spectrum analysis, and noise filtering — essential skills widely applied in industry. Solve the challenge within the given time frame and stand a chance to win exciting cash prizes !",
+          "tagline":"Extraction of the Encoded !",
+          "prizePool": 12000,
+          "mode": "Online",
+          "club": "Electromos",
+          "rulebook":"https://docs.google.com/document/d/1i4vo6ZI6aAzUCDzTRPcoAvlRdr679v4zXJXrHdNiSpM/edit?usp=sharing",
+          "location": "IIT Bhilai",
+          "POCs":[
+             {
+               "name": "Rohit Dhamale",
+               "contact": ": 7057396673"
+             },
+             {
+               "name": "Divit Sharma",
+               "contact": ": 9109340021"
+             } 
+          ]
+        },
+        {
+          "id": "cosmotheater",
+          "name": "Cosmotheater",
+          "poster": "Image-not-found.png",
+         "image":"scitech_banners/Image-not-found.png", 
+          "registerURL": "https://docs.google.com/forms/d/12m-2aEazpK4mvXxslDmUvgoB9WF5yt-9hxSr8ks8kOQ/edit?ts=672b75a6",
+          "description": "The Cosmotheater is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theater with the expansive knowledge of astronomy, a cosmotheater serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
+          "tagline":"Explore the Universe, Experience the Wonder.",
+          "prizePool": 0,
+          "mode": "offline",
+          "club": "Space Exploration Society",
+          "location": "TBD",
+          "POCs":[
+             {	
+               "name": "Aviral Saxena",
+               "contact": "9755733558"
+             },
+             {
+               "name": "Ajay Chikate",
+               "contact": "9021500970"
+             } 
+          ]
+        },
+        {
+          "id": "aero-chase",
+          "name": "AeroChase",
+          "poster": "aero-chase.png",
+        "image":"scitech_banners/Image-not-found.png",
+          "registerURL": "https://forms.gle/NJgzursZjiJsRPK96",
+          "description": "In this exciting drone racing event, teams will be formed with the primary objective of designing, building, and customizing their drones from scratch and take part in the various rounds. Each team will be responsible for not only constructing the drone but also ensuring it meets the performance and technical specifications required to excel in various competitions",
+          "tagline":"Soar to Victory : Where Innovation Meets Flight",
+          "prizePool":12500 ,
+          "mode": "offline",
+          "club": "Space Exploration Society",
+          "rulebook":"AEROCHASE",
+          "location": "TBD",
+          "POCs":[
+             {
+               "name": "Anaay Sahu",
+               "contact": "9717673798"
+             },
+             {
+               "name": "Shashank Yadav",
+               "contact": "8817877625"
+             } 
+          ]
         },
         
-        
-          {
-            "id": "genai-image-challenge",
-            "name": "Pixel Perfect",
-            "image":"scitech_banners/pixel_perfet.jpg",
-            "poster": "pixel_perfect.webp",
-            "registerURL": "#",
-            "description": "In this fun and creative challenge, participants will be provided with a target image. Using specified AI image generation tools, they must recreate an image as close to the original as possible, within a limited number of prompts and without using specific restricted phrases.",
-            "tagline": "Unleash Creativity, Match the Image!",
-            "prizePool": 10000,
-            "mode": "Online",
-            "club": "DSAI Club",
-            "rulebook": "https://docs.google.com/document/d/1B97m1-ruw51L0RuWLMLXeD3d7aXlpZCYkDT-oBpZe3M/edit?usp=sharing",
-            "location": "IIT Bhilai",
-            "POCs": [
-                {
-                    "name": "Nishant Verma",
-                    "contact": "9670004551"
-                },
-                {
-                    "name": "Vedant Marodkar",
-                    "contact": "9075250152"
-                }
-            ]
-          },
-          {
-            "id": "AutomateX",
-            "name": "AutomateX",
-            "image":"scitech_banners/automatex.webp",
-            "poster": "Automatex.webp", 
-            "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
-            "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-worldproblems by the end of the hackathon.",
-            "tagline":"Innovating Daily Life with Google Solutions !",
-            "prizePool": 15000,
-            "mode": "Online",
-            "club": "Openlake & GDG IIT Bhilai",
-            "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
-            "location": "IIT Bhilai",
-            "POCs":[
+        {"id": "starlight-snapshots",
+          "name": "Starlight Snapshots",
+          "poster": "starlight-snapshots.png",
+        "image":"scitech_banners/Image-not-found.png",
+          "registerURL": "https://forms.gle/s93BNP5YqZNMLk78A",
+          "description": "Step into the realm of stars and celestial wonders! In this online astrophotography competition, we invite you to showcase your talent by capturing the breathtaking beauty of the night sky, celestial bodies, and cosmic phenomena. Whether it’s the stunning sweep of the Milky Way, a close-up of the moon’s surface, or the mesmerizing trails of stars in long-exposure shots, use your creativity and technical prowess to capture space like never before.Unveil the mysteries of the universe through your lens—where every shot tells a story of the cosmos.",
+          "tagline":"Capturing Cosmos, Picturing Universe", 
+          "prizePool":8000,
+          "mode": "online",
+          "club": "Space Exploration Society",
+          "rulebook":"https://docs.google.com/document/d/19BUqpa83OBt22v8qKPoc_NYXLNh_FFRVoV9WTAJ_GKc/edit?usp=sharing",
+          "location": "online",
+          "POCs":[
+             {
+               "name": "Snehal Suhane",
+               "contact": "9406543992"
+             },
+             {
+               "name": "Kushagra Katare",
+               "contact": "6260773546"
+             } 
+          ]
+        },
+        {
+          "id": "v_verse",
+          "name": "Virtual Verse",
+          "poster": "v_verse.png",
+        "image":"scitech_banners/vr.webp",
+          "registerURL": "https://docs.google.com/forms/d/e/1FAIpQLSenbtNSa7TmVGCSffD5JcjRTMUmYk2wE8k1533mOlQz-kN6Kg/viewform?vc=0&c=0&w=1&flr=0", 
+          "description": "Virtual Verse hints at offline VR games by SES, where virtual experiences come to life. It's a dream realized, merging fantasy with technology for immersive play. Players step into VR worlds crafted by SES, blurring the lines between reality and fiction. Led by innovative minds, this project promises to redefine gaming experiences, offering a surreal journey beyond traditional gameplay.",
+          "tagline":"Step Into Fantasy—Where Reality Meets the Virtual Dream!",
+          "prizePool": 0,
+          "mode": "offline",
+          "club": "Space Exploration Society",
+          "rulebook":"#",
+          "location": "TBD",
+          "POCs":[
+             {
+               "name": "Aditya Jha",
+               "contact": "7439879074"
+             },
+             {
+               "name": "Ankit Rath",
+               "contact": "9304094370"
+             } 
+          ]
+        },
+        {
+          "id": "genai-image-challenge",
+          "name": "Pixel Perfect",
+         "poster": "pixel_perfect.webp",
+        "image":"scitech_banners/pixel_perfet.jpg",
+          "registerURL": "https://forms.gle/dc1cdsqSmbzmFdkY6 ",
+          "description": "In this fun and creative challenge, participants will be provided with a target image. Using specified AI image generation tools, they must recreate an image as close to the original as possible, within a limited number of prompts and without using specific restricted phrases.",
+          "tagline": "Unleash Creativity, Match the Image!",
+          "prizePool": 12500,
+          "mode": "Online",
+          "club": "DSAI Club",
+          "rulebook": "https://docs.google.com/document/d/1B97m1-ruw51L0RuWLMLXeD3d7aXlpZCYkDT-oBpZe3M/edit?usp=sharing",
+          "location": "IIT Bhilai",
+          "POCs": [
               {
-                "name": "Ashutosh",
-                "contact": ": 9051042158"
+                  "name": "Nishant Verma",
+                  "contact": ": 9670004551"
               },
-               {
-                 "name": "Om Anand",
-                 "contact": ": 8292251435"
-               }
-        
-            ]
-          },
-        
-         {
-            "id": "Electronics_Enigma",
-            "name": "Electronics Enigma",
-            "image":"scitech_banners/electronics-enigma.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "description": "Online quiz will be conducted related to electronics and technology. Certain questions related to electronics, communication systems and technology will be asked. Participants have to answer the question by choosing the options given under a certain time limit",
-            "tagline":"Discover the pulse of Electronics !",
-            "prizePool": 12000,
-            "mode": "Online",
-            "club": "ElectroMos",
-            "rulebook":"#",
-            "location": "IIT Bhilai",
-            "POCs":[
-               {
-                 "name": "Ayush Kumar",
-                 "contact": "9279199099"
-               },
-               {
-                 "name": "Omendra Upadhyay",
-                 "contact": "8247589701"
-               } 
-            ]
-          },
-        
-          {
-            "id": "Wave_Hack",
-            "name": "Wave Hack",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/smart_automation.webp",
-            "registerURL": "#",
-            "description": "Wave Hack is an online hackathon where participants need to solve a problem statement by brainstorming. This years domain is signal processing and communication system. The event emphasizes on the knowledge of Amplitude modulation, frequency spectrum, noise filtering etc., which are extensively used in industries. Solve the problem statement in given time and earn exciting cash award !",
-            "tagline":"Extraction of the Encoded !",
-            "prizePool": 12000,
-            "mode": "Online",
-            "club": "Electromos",
-            "rulebook":"#",
-            "location": "IIT Bhilai",
-            "POCs":[
-               {
-                 "name": "Rohit Dhamale",
-                 "contact": ": 7057396673"
-               },
-               {
-                 "name": "Omendra Upadhyay",
-                 "contact": ": 8247589701"
-               } 
-            ]
-          },
-        
-        
-        
-        
-        
-         {
-            "id": "TTF",
-            "name": "Tech and Tinker Fusion",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/smart_automation.webp",
-            "registerURL": "#",
-            "description": "A hackathon will be conducted in offline mode, where participants will be given a problem statement and asked to solve using a particular software. Based on optimisation, time and complexity the top-3 winner will be chosen. The domain of problem statement and software will be declared before the hackathon",
-            "tagline":"Discover the pulse of Electronics !",
-            "prizePool": 12000,
-            "mode": "Offline",
-            "club": "ElectroMos",
-            "rulebook":"#",
-            "location": "IIT Bhilai",
-            "POCs":[
-               {
-                 "name": "Divit Sharma",
-                 "contact": "9109340021"
-               },
-               {
-                 "name": "Omendra Upadhyay",
-                 "contact": "8247589701"
-               } 
-            ]
-          },
-        
-        
-        {
-            "id": "cosmotheater",
-            "name": "Cosmotheater",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/Image-not-found.png",
-            "registerURL": "https://ci5.googleusercontent.com/proxy/YS2urSQku9HCAYELvRcb_dyY0KDWxuobqCIE2EbaPUdpH_RETLa2tRu5A1b8TRb4NSFkL9hqtqQ9JocQR7hq3LjOWEbc63VOA523zoAHGFsciKgIUNk8zouODtf70jjPEt5YGGVAOJ9oY88=s0-d-e1-ft#https://drive-thirdparty.googleusercontent.com/256/type/application/vnd.google-apps.form",
-            "description": "The Cosmotheater is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theater with the expansive knowledge of astronomy, a cosmotheater serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
-            "tagline":"Explore the Universe, Experience the Wonder.",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "Space Exploration Society",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Aviral Saxena",
-                 "contact": "9755733558"
-               },
-               {
-                 "name": "Ajay Chikate",
-                 "contact": "9021500970"
-               } 
-            ]
-          },
-          
-        {
-            "id": "aero-chase",
-            "name": "AeroChase",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/Image-not-found.png",
-            "registerURL": "https://forms.gle/NJgzursZjiJsRPK96",
-            "description": "In this exciting drone racing event, teams will be formed with the primary objective of designing, building, and customizing their own drones from scratch. Each team will be responsible for not only constructing the drone but also ensuring it meets the performance and technical specifications required to excel in various competitions like Ring of fire",
-            "tagline":"Soar to Victory : Where Innovation Meets Flight",
-            "prizePool": 12500,
-            "mode": "offline",
-            "club": "Space Exploration Society",
-            "rulebook":"https://docs.google.com/document/d/1iv4VRR3c6V6_Z_6LFeRue8igNlwiBwxZrrAGw6gMgBk/edit?usp=sharing",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Anaay Sahu",
-                 "contact": "9717673798"
-               },
-               {
-                 "name": "Shashank Yadav",
-                 "contact": "8817877625"
-               } 
-            ]
-          },
-        
-        {
-        "id": "starlight-snapshots",
-            "name": "Starlight Snapshots",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/Image-not-found.png",
-            "registerURL": "#",
-            "description": "Step into the realm of stars and celestial wonders! In this online astrophotography competition, we invite you to showcase your talent by capturing the breathtaking beauty of the night sky, celestial bodies, and cosmic phenomena. Whether it’s the stunning sweep of the Milky Way, a close-up of the moon’s surface, or the mesmerizing trails of stars in long-exposure shots, use your creativity and technical prowess to capture space like never before.\nUnveil the mysteries of the universe through your lens—where every shot tells a story of the cosmos.",
-            "tagline":"Capturing Cosmos, Picturing Universe", 
-            "prizePool": 0,
-            "mode": "online",
-            "club": "Space Exploration Society",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Snehal Suhane",
-                 "contact": "9406543992"
-               },
-               {
-                 "name": "Kushagra Katare",
-                 "contact": "6260773546"
-               } 
-            ]
-          },
-        
-        
-        {
-            "id": "v_verse",
-            "name": "Virtual Verse",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/vr.webp",
-            "registerURL": "#",
-            "description": "Virtual Verse hints at offline VR games by SES, where virtual experiences come to life. It's a dream realized, merging fantasy with technology for immersive play. Players step into VR worlds crafted by SES, blurring the lines between reality and fiction. Led by innovative minds, this project promises to redefine gaming experiences, offering a surreal journey beyond traditional gameplay.",
-            "tagline":"Step Into Fantasy—Where Reality Meets the Virtual Dream!",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "Space Exploration Society",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Aditya Jha",
-                 "contact": "7439879074"
-               },
-               {
-                 "name": "Ankit Rath",
-                 "contact": "9304094370"
-               } 
-            ]
-          },
-        
-        
-        {
-            "id": "lockout",
-            "name": "Lockout Tournament",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/lockout.webp",
-            "registerURL": "#",
-            "description": "Welcome to the Lockout Tournament 3.0 by Ingenuity! Get ready for intense one-on-one programming battles where participants tackle randomly generated problems, earning points to advance while winners move on and losers are eliminated. With odd participant counts, the highest-rated Codeforces member will receive a special promotion. You can switch programming languages freely during the tournament. Join us during MERAZ for an electrifying display of programming prowess. Register now and let your ingenuity shine!",
-            "tagline": "",
-            "prizePool": 0,
-            "mode": "Offline",
-            "club": "Ingenuity",
-            "rulebook": "#",
-            "location": "IIT Bhilai",
-            "POCs": [
-                {
-                    "name": "Koosh Gupta",
-                    "contact": "8250213794"
-                },
-                {
-                    "name": "Priyanshu Kishore",
-                    "contact": "7363971979"
-                }
-            ]
+              {
+                  "name": "Vedant Marodkar",
+                  "contact": ": 9075250152"
+              }
+          ]
         },
-        
-        
         {
-            "id": "codehunt",
-            "name": "CodeHunt",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/codehunt.jpg",
-            "registerURL": "#",
-            "description": "Welcome to CodeHunt by Ingenuity! Get ready for an exhilarating journey filled with intense  team programming battles. Participate in a variety of thrilling challenges designed to test your coding skills, creativity, and teamwork. Expect more than just regular coding—prepare for fun, unique tasks that will push your problem-solving abilities to the limit. Compete for substantial cash prizes as you showcase your ingenuity. This is your chance to shine among the best programmers. Don’t wait—register now and unleash your skills in this unforgettable competition.",
-            "tagline": "",
-            "prizePool": 0,
-            "mode": "Online",
-            "club": "Ingenuity",
-            "rulebook": "#",
-            "location": "IIT Bhilai",
-            "POCs": [
-                {
-                    "name": "Manopriya Mondal",
-                    "contact": "7595807122"
-                },
-                {
-                    "name": "Arpan Goswami",
-                    "contact": "7439247036"
-                }
-            ]
+          "id": "ai-hackathon",
+          "name": "Celestial Quest: AI Challenge",
+          "poster":"ai_hackathon.png",
+          "image":"scitech_banners/dsai_hack.webp",
+          "registerURL":"https://forms.gle/zbXtoDUpJHw97oYQA ",
+          "description": "Celestial Quest encourages participants to dive into the depths of AI by developing models that can perform complex image classification using latent embeddings. Participants will tackle a unique problem statement while building skills and showcasing creativity.",
+          "tagline": "Where AI Meets Limitless Ideas",
+          "prizePool": 10000,
+          "mode": "Online",
+          "club": "DSAI Club",
+          "rulebook": "https://docs.google.com/document/d/172xYHtv3aKn9tfM7MgGvda-uPbFfyhmx/edit?usp=sharing&ouid=117833473056175351554&rtpof=true&sd=true ",
+          "location": "IIT Bhilai",
+          "POCs": [
+              {
+                  "name": "Ashutosh Kumar Jha ",
+                  "contact": ":9051042158"
+              },
+              {
+                  "name": "Kesav Patneedi",
+                  "contact": ": 9014041996"
+              }
+          ]
         },
-        
-        
         {
-            "id": "robo_kabaddi",
-            "name": "RoboKabaddi",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/robokabadi.jpg",
-            "registerURL": "#",
-            "description":"RoboKabaddi is a robotic combat event where robots enter the opposing team's  arena to score points by retrieving objects based on their distance from the goal. The farther the object is from the robot's home arena, the more points it earns. To score, the robot must successfully return the object to its arena without being intercepted or \"tagged out\" by the opposing team's bot.",
-            "tagline":"Fast, Fearless and Techy Tackles",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "The Epsilon Club",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "HarsH Katole",
-                 "contact": "7773945223"
-               },
-               {
-                 "name": "Anurag Jaiswal",
-                 "contact": "7355971516"
-               },
-               {
-                 "name": "Khushi Sharma",
-                 "contact": "7976281858"
-               } 
-            ]
-          },
-        
-        
+          "id": "lockout",
+          "name": "Lockout Tournament",
+          "poster":"lockout.png",
+          "registerURL": "https://forms.gle/6yNgnimsaqvbFEG67",
+          "image":"scitech_banners/lockout.webp",
+          "description": "Welcome to the Lockout Tournament 3.0 by Ingenuity! Get ready for intense one-on-one programming battles where participants tackle randomly generated problems, earning points to advance while winners move on and losers are eliminated. Join us during MERAZ for an electrifying display of programming prowess. Register now and let your ingenuity shine!",
+          "tagline": "Code and Conquer",
+          "prizePool": 12500,
+          "mode": "Offline",
+          "club": "Ingenuity",
+          "rulebook": "https://docs.google.com/document/d/10hVWELtjKqwHqFl1n46GPC7Ji43W8K6tWMHbPeT_8hg/edit?usp=sharing ",
+          "location": "IIT Bhilai",
+          "POCs": [
+              {
+                  "name": "Manopriya Mondal",
+                  "contact": " +91 75958 07122"
+              },
+              {
+                  "name": "Arpan Goswami",
+                  "contact": "+91 74392 47036"
+              }
+          ]
+        },
         {
-            "id": "pick_and_place",
-            "name": "Pick and Place Robotic Arm",
-            "image":"scitech_banners/robot.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "description":"",
-            "tagline":"Fast, Fearless and Techy Tackles",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "The Epsilon Club",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Anaay Sahu",
-                 "contact": "9717673798"
-               },
-               {
-                 "name": "Shavaneeth Gourav",
-                 "contact": "8639423179"
-               },
-               {
-                 "name": "Raj Mohammad",
-                 "contact": "7985378709"
-               } 
-            ]
-          },
-        
-        
-        
-        
-        
-        
-        
-         {
-            "id": "Lets-Get-Hacked",
-            "name": "Lets-Get-Hacked",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/lets-get-hacked.webp",
-            "registerURL": "#",
-            "description": " We will be hacking as many devices as possible of those who attend the session, And then we will be explaining how we did it and how to stay protected from these sort of attacks in the future. ( We still can't guarantee that all the devices will be hacked or affected.)",
-            "Tagline": "Beware !!! You might get Hacked 😈",
-            "prizePool": 0,
-            "mode": "Offline",
-            "club": "Spectre",
-            "Rulebook":"#",
-            "location": "IIT Bhilai",
-            "POCs":[
-               {
-                 "name": "Sumanth Guptha",
-                 "contact": "8919945608"
-               },
-               {
-                 "name": "Aryan Verma",
-                 "contact": "8448068999"
-               } 
-            ]
-          },
-        
-        
+          "id": "robo_kabaddi",
+          "name": "RoboKabaddi",
+          "poster": "robo-kabaddi.png",
+          "image":"scitech_banners/robokabadi.jpg",
+          "description":"RoboKabaddi is a robotic combat event where robots enter the opposing team's  arena to score points by retrieving objects based on their distance from the goal. The farther the object is from the robot's home arena, the more points it earns. To score, the robot must successfully return the object to its arena without being intercepted or tagged out by the opposing team's bot.",
+          "tagline":"Fast, Fearless and Techy Tackles",
+          "prizePool":15000 ,
+          "mode": "offline",
+          "club": "The Epsilon Club",
+          "rulebook":"https://drive.google.com/file/d/1pk4cylRMm-f42sb86iGGmd2Tg_s6rvBr/view?usp=sharing",
+          "location": "TBD",
+          "POCs":[
+             {
+               "name": "Aditya Narayan Thakur",
+               "contact": "9355226825"
+             },
+             {
+               "name": "Anurag Jaiswal",
+               "contact": "7355971516"
+             },
+             {
+               "name": "Khushi Dutta",
+               "contact": "7903642798"
+             } 
+          ]
+        },
         {
-            "id": "cyberquest",
-            "name": "CyberQuest : Treasure Hunt",
-            "image":"scitech_banners/cyberquest.webp",
-            "poster": "Image-not-found.png",
-            "registerURL": "#",
-            "description":"Dive into the world of cryptography and blockchain with CipherQuest, a high-stakes treasure hunt. Solve puzzles, crack codes, and uncover clues in a race to the final treasure. Featuring challenges in cryptography, smart contracts, and cybersecurity, this event is the ultimate test for tech enthusiasts eager to push their skills to the limit.",
-            "tagline":"Crack the Code, Claim the Gold!",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "Blockchain at IIT Bhilai & Spectre",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Putla theophila",
-                 "contact": "9640348714"
-               },
-               {
-                 "name": "Sumanth Guptha",
-                 "contact": "8919945608"
-               },
-               {
-                 "name": "Aryan Verma",
-                 "contact": "8448068999"
-               } 
-            ]
-          },
-        
+          "id": "Lets-Get-Hacked",
+          "name": "Lets-Get-Hacked",
+          "Poster": "lets-get-hacked.jpg",
+        "image":"scitech_banners/lets-get-hacked.webp",
+          "registerURL": "https://forms.gle/wS9GnvjeH45jxoo39 ",
+          "description": " We will be hacking as many devices as possible of those who attend the session, And then we will be explaining how we did it and how to stay protected from these sort of attacks in the future. ( We still can't guarantee that all the devices will be hacked or affected.)",
+          "Tagline": "Beware !!! You might get Hacked 😈",
+          "prizePool": 0,
+          "mode": "Offline",
+          "club": "Spectre",
+          "Rulebook":"https://docs.google.com/presentation/d/1cB7ReIQ0lNNpX4AiMWYuuda4o4k9xjpSKLx7lF4r2bU/edit?usp=drivesdk ",
+          "location": "IIT Bhilai",
+          "POCs":[
+             {
+               "name": "Sumanth Guptha",
+               "contact": "8919945608"
+             },
+             {
+               "name": "Aryan Verma",
+               "contact": "8448068999"
+             } 
+          ]
+        },
         {
-            "id": "pitchblock",
-            "name": "PitchBlock",
-            "poster": "Image-not-found.png",
-            "image":"scitech_banners/pitch-block.webp",
-            "registerURL": "#",
-            "description":"PitchBlock invites teams to present their innovative tech product ideas or startup concepts. While we are excited to see blockchain and Web3-based solutions, we also welcome a wider range of tech-focused projects, making it easier for everyone to participate. Judging will focus on creativity, feasibility, and business potential, with extra points for blockchain applications. Whether you’re a blockchain pro or just starting, PitchBlock is your opportunity to pitch your vision to industry experts and win exciting prizes!",
-            "tagline":"Vision to Venture—Lead Web3!",
-            "prizePool": 0,
-            "mode": "offline",
-            "club": "Blockchain at IIT Bhilai & Entrepreneurship-Cell",
-            "rulebook":"#",
-            "location": "TBD",
-            "POCs":[
-               {
-                 "name": "Vasu Garg",
-                 "contact": "9084690147"
-               },
-               {
-                 "name": "Amay Dixit",
-                 "contact": "7217627792"
-               } 
-            ]
-          }
-          
-        ]
+          "id": "cyberquest",
+          "name": "CyberQuest : Treasure Hunt",
+          "poster": "cipher-quest.png",
+         "image":"scitech_banners/cyberquest.webp",
+          "registerURL": "https://forms.gle/DeQZpZbMs71CAZXh8",
+          "description":"Dive into the world of cryptography and blockchain with CipherQuest, a high-stakes treasure hunt. Solve puzzles, crack codes, and uncover clues in a race to the final treasure. Featuring challenges in cryptography, smart contracts, and cybersecurity, this event is the ultimate test for tech enthusiasts eager to push their skills to the limit.", 
+          "tagline":"Crack the Code, Claim the Gold!",
+          "prizePool": 12000,
+          "mode": "offline",
+          "club": "Blockchain at IIT Bhilai & Spectre",
+          "rulebook":"https://drive.google.com/file/d/1KnzpnbIrvNTBUG02bKfGyhnE_yrdRIb7/view?usp=sharing",
+          "location": "TBD",
+          "POCs":[
+             {
+               "name": "Putla theophila",
+               "contact": "9640348714"
+             },
+             {
+               "name": "Vasu Garg",
+               "contact": "9084690147"
+             }
+          ]
+        },
+        {
+          "id": "pitchblock",
+          "name": "PitchBlock",
+          "poster": "PitchBlock1.png",
+        "image":"scitech_banners/pitch-block.webp",
+          "registerURL": "https://forms.gle/hSq7SFSpFAZY5DM46",
+          "description":"PitchBlock invites teams to present their innovative tech product ideas or startup concepts. While we are excited to see blockchain and Web3-based solutions, we also welcome a wider range of tech-focused projects, making it easier for everyone to participate. Judging will focus on creativity, feasibility, and business potential, with extra points for blockchain applications. Whether you’re a blockchain pro or just starting, PitchBlock is your opportunity to pitch your vision to industry experts and win exciting prizes!",
+          "tagline":"Vision to Venture—Lead Web3!",
+          "prizePool": 10000,
+          "mode": "offline",
+          "club": "Blockchain at IIT Bhilai & Entrepreneurship-Cell",
+        "rulebook":"https://docs.google.com/document/d/15pl26LvX-b2c1egWXjSZHyJ8I8E0tC7IQo55PVzy4VE/edit?usp=sharing",
+          "location": "TBD",
+          "POCs":[
+             {
+               "name": "Amay Dixit",
+               "contact": "7217627792"
+             },
+             {
+               "name": "Ashutosh Kumar Jha",
+               "contact": "9051042158"
+             }
+          ]
+        }]
+        
+        
         
         
         
