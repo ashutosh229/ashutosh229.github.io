@@ -87,7 +87,10 @@
           <div id="poc">
             <p>Himanshu Rana (CoSA President) - 8770571371</p>
             <p>Harsh Meena (CoSA Events Head) - 7611088018</p>
-            <p>Piyush Chandrakar (CoSA Treasurer) - 9179932361</p>
+            <p>Piyush Chandrakar (CoSA Treasurer) - 79932361</p>
+            <p>Ojus Goel (Scitech Convenor) - 8708943859</p>
+            <p>Smit Maurya (Culturals Convenor) - 7985370417</p>
+            <p>Aditya Prakash (Informals Convenor) - 8335025833</p>
           </div>
         </div>
       </div>
