@@ -26,7 +26,12 @@
   <nav class="sidebar" class:open={$sidebarOpen}>
     <div class="cross" on:click={() => ($sidebarOpen = false)}>&#10005</div>
 
-    <img alt="" class="logoo" src="/assets/meraz_logo_final_2024.svg" srcset="" />
+    <img
+      alt=""
+      class="logoo"
+      src="/assets/meraz_logo_final_2024.svg"
+      srcset=""
+    />
 
     {#each links as { href, text }}
       <li>
@@ -42,7 +47,7 @@
 
     <div class="regbtn">
       <a
-        href="https://unstop.com/p/meraz-registration-pass-meraz-40-indian-institute-of-technology-iit-bhilai-923047"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
         >Register</a
       >
     </div>
@@ -329,7 +334,9 @@
     margin: 10px;
     color: #bfbfbf;
     text-decoration: none;
-    transition: background-color 0.2s, color 0.2s;
+    transition:
+      background-color 0.2s,
+      color 0.2s;
   }
 
   .regbtn:hover {
@@ -337,5 +344,3 @@
     color: #121212; /* Dark text color on hover */
   }
 </style>
-
-
