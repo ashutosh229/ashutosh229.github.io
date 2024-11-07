@@ -33,12 +33,12 @@
           ]
         },
         {
-          "id": "cosmotheater",
-          "name": "Cosmotheater",
+          "id": "cosmotheatre",
+          "name": "Cosmotheatre",
           "poster": "Image-not-found.png",
-         "image":"scitech_banners/Image-not-found.png", 
+          "image":"scitech_banners/Image-not-found.png", 
           "registerURL": "https://docs.google.com/forms/d/12m-2aEazpK4mvXxslDmUvgoB9WF5yt-9hxSr8ks8kOQ/edit?ts=672b75a6",
-          "description": "The Cosmotheater is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theater with the expansive knowledge of astronomy, a cosmotheater serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
+          "description": "The Cosmotheatre is a state-of-the-art facility designed to immerse visitors in the wonders of the universe through captivating visual experiences and educational programming. Combining elements of a traditional theatre with the expansive knowledge of astronomy, a cosmotheatre serves as a dynamic hub for exploring celestial phenomena, the cosmos, and our place within it.",
           "tagline":"Explore the Universe, Experience the Wonder.",
           "prizePool": 0,
           "mode": "offline",
