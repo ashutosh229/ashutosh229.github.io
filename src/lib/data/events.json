@@ -7,30 +7,7 @@
         "separatePage": true,
         "card-width": 14,
         "card-height": 20,
-        "entries":[{
-          "id": "AutomateX",
-          "name": "AutomateX",
-          "poster": "Automatex.webp",
-        "image":"scitech_banners/automatex.webp",
-         "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
-          "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-world problems by the end of the hackathon.",
-          "tagline":"Innovating Daily Life with Google Solutions !",
-          "prizePool": 15000,
-          "mode": "Online",
-          "club": "Openlake & GDG IIT Bhilai",
-          "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
-          "location": "IIT Bhilai",
-          "POCs":[
-            {
-              "name": "Ashutosh",
-              "contact": ": 9051042158"
-            } ,
-             {
-               "name": "Om Anand",
-               "contact": ": 8292251435"
-             }
-         ]
-        },
+        "entries":[
         {
           "id": "F.I.N.D",
           "name": "F.I.N.D (Frequency Identification and Noise Diminution)",
@@ -320,6 +297,30 @@
                "contact": "9051042158"
              }
           ]
+        },
+        {
+          "id": "AutomateX",
+          "name": "AutomateX",
+          "poster": "Automatex.webp",
+        "image":"scitech_banners/automatex.webp",
+         "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
+          "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-world problems by the end of the hackathon.",
+          "tagline":"Innovating Daily Life with Google Solutions !",
+          "prizePool": 15000,
+          "mode": "Online",
+          "club": "Openlake & GDG IIT Bhilai",
+          "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
+          "location": "IIT Bhilai",
+          "POCs":[
+            {
+              "name": "Ashutosh",
+              "contact": ": 9051042158"
+            } ,
+             {
+               "name": "Om Anand",
+               "contact": ": 8292251435"
+             }
+         ]
         }]
         
         
