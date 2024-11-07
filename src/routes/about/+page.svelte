@@ -49,7 +49,7 @@
     <br />
     <div class="intro">
       <p>
-        Welcome to Meraz 4.0, IIT Bhilai's yearly techno-cultural festival; the
+        Welcome to Meraz 5.0, IIT Bhilai's yearly techno-cultural festival; the
         vivacious spectacle that breaks through barriers and stokes passions.
         Meraz, which is rooted in the long history of techno-cultural events at
         IIT Bhilai, is a tribute to our dedication to developing talent and
