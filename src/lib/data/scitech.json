@@ -1,26 +1,4 @@
-[{
-  "id": "AutomateX",
-  "name": "AutomateX",
-  "poster": "Automatex.webp",
- "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
-  "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-world problems by the end of the hackathon.",
-  "tagline":"Innovating Daily Life with Google Solutions !",
-  "prizePool": 15000,
-  "mode": "Online",
-  "club": "Openlake & GDG IIT Bhilai",
-  "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
-  "location": "IIT Bhilai",
-  "POCs":[
-    {
-      "name": "Ashutosh",
-      "contact": ": 9051042158"
-    } ,
-     {
-       "name": "Om Anand",
-       "contact": ": 8292251435"
-     }
- ]
-},
+[
 {
   "id": "F.I.N.D",
   "name": "F.I.N.D (Frequency Identification and Noise Diminution)",
@@ -89,7 +67,6 @@
      } 
   ]
 },
-
 {"id": "starlight-snapshots",
   "name": "Starlight Snapshots",
   "poster": "starlight-snapshots.png",
@@ -298,5 +275,27 @@
        "contact": "9051042158"
      }
   ]
+},
+{
+  "id": "AutomateX",
+  "name": "AutomateX",
+  "poster": "Automatex.webp",
+ "registerURL": "https://forms.gle/peVumaxeCGdbvsLU6",
+  "description": "AutomateX is a hackathon focused on building practical solutions to automate everyday automated workflows, and custom applications. The event emphasizes hands-on implementation, with the goal of delivering functional prototypes that address real-world problems by the end of the hackathon.",
+  "tagline":"Innovating Daily Life with Google Solutions !",
+  "prizePool": 15000,
+  "mode": "Online",
+  "club": "Openlake & GDG IIT Bhilai",
+  "rulebook":"https://docs.google.com/document/d/1Q9YQrWBeJvNGQ5RdtFst1XGmnq3HpoEb/edit",
+  "location": "IIT Bhilai",
+  "POCs":[
+    {
+      "name": "Ashutosh",
+      "contact": ": 9051042158"
+    } ,
+     {
+       "name": "Om Anand",
+       "contact": ": 8292251435"
+     }
+ ]
 }]
-

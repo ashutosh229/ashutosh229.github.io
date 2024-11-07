@@ -40,29 +40,21 @@
   <img src="/assets/Tree.png" alt="not found" srcset="" class="tree" />
   <div class="start">
     <p>
-      Welcome to Meraz, the annual techno-cultural fest of IIT Bhilai. This
-      vibrant production dismantles barriers and arouses emotions. Meraz 5.0 is
-      a monument to our drive to foster talent and promote a curious,
-      forward-thinking mentality. Its beginnings can be discovered in the long
-      history of IIT Bhilai's techno-cultural activities. Regardless of
-      background, it's where people with different skills come together and
-      their horizons open up.
+      The Entrepreneurship Conclave at MERAZ 5.0 promises to be a landmark
+      gathering, drawing aspiring entrepreneurs, tech enthusiasts, and creative
+      problem-solvers from across Chhattisgarh and beyond.
     </p>
     <p>
-      Aim to bridge the gap between budding entrepreneurs and the resources they
-      need to thrive in the competitive business landscape
+      With a focus on the theme of "A Celestial Symmetry: Threads of Light,
+      Life, and Time," this year’s Conclave will provide a unique platform for
+      startups, students, and innovators to showcase their ideas, secure
+      funding, and foster impactful connections.
     </p>
     <p>
-      We believe in nurturing the seeds of creativity, guiding startup
-      enthusiasts through the intricate pathways of business, and ultimately,
-      propelling them towards the zenith of success
+      The event is open to all and will be a transformative experience for
+      participants seeking to ignite their entrepreneurial journey.
     </p>
-    <p>Mission to inspire, educate, and connect aspiring entrepreneurs</p>
-    <p>
-      It serves as the ultimate bridge between aspiring entrepreneurs and the
-      dynamic world of business, providing a space for inspiration, mentorship,
-      and investment opportunities.
-    </p>
+
     <div class="event-info">
       <!-- <img class="image" src="/assets/frame.png" alt="not found"> -->
       <div class="text value fund image">
