@@ -1,6 +1,7 @@
 <script>
   import LeftCorner from "./Left-corner.svelte";
   import RightCorner from "./Right-corner.svelte";
+  import { registerURL } from "$lib/components/Event.svelte";
 
   /** @type {
    * event.id: string,
@@ -66,18 +67,23 @@
           border="0"
         />
         <div class="button-container">
-          <a target="_blank" class="block-2" href={data.rulebook}>
-            <div class="effect btn-ani">
-              <button class="rule-btn hover-effect">Rulebook</button>
-              <!--<img class="glitter" src="/assets/E_Stars.svg" alt="" />-->
-            </div>
-          </a>
-          <a target="_blank" class="block-2" href={data.registerURL}>
-            <div class="effect btn-ani">
-              <button class="reg-btn hover-effect">Register</button>
-              <!--<img class="glitter" src="/assets/E_Stars.svg" alt="" />-->
-            </div>
-          </a>
+          {#if data.rulebook}
+            <a target="_blank" class="block-2" href={data.rulebook}>
+              <div class="effect btn-ani">
+                <button class="rule-btn hover-effect">Rulebook</button>
+                <!--<img class="glitter" src="/assets/E_Stars.svg" alt="" />-->
+              </div>
+            </a>
+          {/if}
+
+          {#if data.registerURL}
+            <a target="_blank" class="block-2" href={data.registerURL}>
+              <div class="effect btn-ani">
+                <button class="reg-btn hover-effect">Register</button>
+                <!--<img class="glitter" src="/assets/E_Stars.svg" alt="" />-->
+              </div>
+            </a>
+          {/if}
         </div>
       </div>
       <div class="text-container">
