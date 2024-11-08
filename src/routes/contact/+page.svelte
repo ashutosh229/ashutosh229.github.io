@@ -141,6 +141,7 @@
           <div id="poc">
             <p>Piyush Chandrakar - 9179932361</p>
             <p>Himanshu Soni - 9119219983</p>
+            <p>Ayush Kumar - 9279020055</p>
           </div>
         </div>
       </div>
