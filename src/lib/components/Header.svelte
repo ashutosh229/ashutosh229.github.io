@@ -8,18 +8,12 @@
   let scrollY;
   let y;
   let posType;
+  let activeLink = null;
 
   $: y = $collapsingNavbar ? Math.min(scrollY - 100, 0) : 0;
   $: posType = $collapsingNavbar ? "fixed" : "sticky";
 </script>
 
-<svelte:head></svelte:head>
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-  href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
-  rel="stylesheet"
-/>
 <svelte:window bind:scrollY />
 
 <div
@@ -32,7 +26,6 @@
         alt=""
         class="small-navbar-logo"
         src="/assets/meraz_logo_final_2024.svg"
-        srcset=""
       />
     </a>
   </div>
@@ -44,6 +37,7 @@
     <Fa icon={faBars} size="2x" />
   </button>
 </div>
+
 <div
   class="navbar-container"
   style={`transform: translateY(${y}%); position: ${posType};`}
@@ -52,7 +46,13 @@
     <div class="navbar">
       {#each links as { href, text }, index}
         <li class="navelt">
-          <a class="link" {href}>{text}</a>
+          <a
+            class="link {activeLink === href ? 'active' : ''}"
+            {href}
+            on:click={() => (activeLink = href)}
+          >
+            {text}
+          </a>
         </li>
         {#if index == 4}
           <li class="logo">
@@ -61,7 +61,6 @@
                 alt=""
                 class="logoo"
                 src="/assets/meraz_logo_final_2024.svg"
-                srcset=""
               />
             </a>
           </li>
@@ -69,6 +68,8 @@
       {/each}
       <div class="regbtn">
         <a
+          target="_blank"
+          rel="noopener noreferrer"
           href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
           >Register</a
         >
@@ -76,8 +77,6 @@
     </div>
   </nav>
 </div>
-
-<!-- CSS STYLING -->
 
 <style lang="scss">
   * {
@@ -107,36 +106,13 @@
     text-decoration: none;
     color: white;
     font-family: LibreBaskerville;
-    transition:
-      color 0.25s ease,
-      text-decoration 0.25s ease; /* Smooth transition for color and text-decoration */
+    transition: color 0.25s ease;
   }
   .link:hover {
-    color: #7cc7ff; /* Change color to 7CC7FF when hovered */
+    color: #7cc7ff; /* Light blue color on hover */
   }
-
-  .link::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 2px;
-    background-color: #7cc7ff; /* Underline color */
-    transition: width 0.25s ease; /* Smooth transition for underline */
-  }
-  .link:hover::after {
-    width: 100%; /* Underline effect */
-  }
-
-  /* New rule for clicked state */
-  .link:active,
-  a:active {
-    color: #7cc7ff; /* Change color to 7CC7FF when clicked */
-  }
-  .link:active::after {
-    width: 100%; /* Underline effect when clicked */
-    background-color: #7cc7ff; /* Change underline color to 7CC7FF when clicked */
+  .link.active {
+    color: #0044cc; /* Permanent blue color for the active tab */
   }
 
   .navbar {
@@ -222,7 +198,6 @@
   }
   .small-navbar-logo-conatiner {
     height: 80px;
-    /*display: inline-block;*/
     padding: 0px;
     margin: auto;
   }

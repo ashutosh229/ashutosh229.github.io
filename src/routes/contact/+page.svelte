@@ -91,6 +91,7 @@
             <p>Ojus Goel (Scitech Convenor) - 8708943859</p>
             <p>Smit Maurya (Culturals Convenor) - 7985370417</p>
             <p>Aditya Prakash (Informals Convenor) - 8335025833</p>
+            <p>Uttkrist chouksey (Sports Convenor) - 6268533675</p>
           </div>
         </div>
       </div>
