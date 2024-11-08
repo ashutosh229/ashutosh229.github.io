@@ -299,7 +299,7 @@
   .block-1 {
     position: relative;
     width: 93px;
-    height: 112px;
+    height: 220px;
   }
 
   .image-6,

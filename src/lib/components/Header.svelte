@@ -58,7 +58,7 @@
           <li class="logo">
             <a href="/">
               <img
-                alt=""
+                alt="meraz-logo"
                 class="logoo"
                 src="/assets/meraz_logo_final_2024.svg"
               />
