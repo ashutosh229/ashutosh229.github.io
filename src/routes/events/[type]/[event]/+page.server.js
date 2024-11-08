@@ -1,6 +1,7 @@
 import scitechData from "$lib/data/scitech.json";
 import culturalData from "$lib/data/culturals.json";
 import informalsData from "$lib/data/informal.json";
+import sportsData from "$lib/data/sports.json";
 
 export function load({ params }) {
   let eventsData;
@@ -10,6 +11,8 @@ export function load({ params }) {
     eventsData = culturalData;
   } else if (params.type === "informals") {
     eventsData = informalsData;
+  } else if (params.type === "sports") {
+    eventsData = sportsData;
   } else {
     return "404;";
   }

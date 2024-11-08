@@ -1,7 +1,7 @@
 <script>
   import LeftCorner from "./Left-corner.svelte";
   import RightCorner from "./Right-corner.svelte";
-  import { registerURL } from "$lib/components/Event.svelte";
+  // import { registerURL } from "$lib/components/Event.svelte";
 
   /** @type {
    * event.id: string,

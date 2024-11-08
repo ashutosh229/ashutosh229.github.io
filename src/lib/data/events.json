@@ -693,10 +693,15 @@
             "location": "Online",
             "POCs": [
               {
-                "name": "P R Raga Chandana",
-                "contact": "7908368395"
+                  "name": "P R Raga Chandana",
+                  "contact": "7908368395"
+              },
+              {
+                  "name":"Sai Surya Talla",
+                  "contact":"9346870117"
+  
               }
-            ]
+          ]
           },
           {
             "id": "murder-mystery",
@@ -790,29 +795,7 @@
               }
             ]
           },
-          {
-            "id": "mun",
-            "name": "IIT Bh-Model United Nations",
-            "image": "culturals/Mun.jpg",
-            "poster": "mun.webp",
-            "registerURL": "https://forms.gle/An9oiDpd9QTizoDy9",
-            "rulebook": "https://docs.google.com/document/d/1qjf2SgaR-ja78HeNmnxDW8YwDUBItUB4tjrvw-uufE0/edit?usp=drivesdk",
-            "description": "\"ITBh-MUN\" is your chance to debate, negotiate and create change! The place wherein your ideas and intellect will get their chance to create a global impact and you will provide solutions to shape the future of global policy. In MUN the participating delegates will engage in intensive debate, diplomacy and collaboration to formulate decisions on global issues that involve diplomatic skills and critical thinking. You can have a team of two for a particular arena or be a standalone participant too. Good debaters and performers will surely be awarded and appreciated.Committee: United Nations Security Council (UNSC). Agenda:The Conflict in Yemen: A Path to Humanitarian Relief and Long-Term Stability Amid Regional Rivalries Involving Saudi Arabia and Iran",
-            "tagline": "Where The Future Leaders of the World Meet",
-            "prizePool": 11000,
-            "mode": "Offline",
-            "location": "Offline",
-            "POCs": [
-              {
-                "name": "Rohit Raghuwanshi",
-                "contact": "7999463376"
-              },
-              {
-                "name": "Kanishka Yadav",
-                "contact": "8950966178"
-              }
-            ]
-          },
+
           {
             "id": "attire-spectra",
             "name": "Attire Spectra",
@@ -859,52 +842,7 @@
               }
             ]
           },
-          {
-            "id": "promptopia",
-            "name": "Promptopia",
-            "image": "culturals/prompt.webp",
-            "poster": "promptopia.webp",
-            "registerURL": "https://forms.gle/FyeWUParwyyJj7QE6",
-            "rulebook": "https://drive.google.com/file/d/1X_iJCL3c2Ny7b22CeVKhdn2lSYIFsQjv/view?usp=drivesdk",
-            "description": "Promptopia is a prompt writing challenge where participants are presented with a variety of intriguing prompts. Each participant selects one prompt and crafts a unique, imaginative piece based on it. To add an extra twist, bonus elements are provided daily, which participants can incorporate into their work to enhance their creativity and storytelling.",
-            "tagline": "From a Single Spark, a Story Ignites!",
-            "prizePool": 2000,
-            "mode": "Online",
-            "location": "Online",
-            "POCs": [
-              {
-                "name": "Akshat Gupta",
-                "contact": "9432443604"
-              },
-              {
-                "name": "Ashutosh Kumar Jha",
-                "contact": "9051042158"
-              }
-            ]
-          },
-          {
-            "id": "meme_o_rama",
-            "name": "Meme-O-Rama",
-            "image": "culturals/meme.webp",
-            "poster": "meme-o-rama.webp",
-            "registerURL": "https://forms.gle/qfn9JtjksDryohwdA",
-            "rulebook": "https://drive.google.com/file/d/1beDv3btoahCMtT7I27-YhHcGkEWQ63ec/view",
-            "description": "Meme-O-Rama is an online Meme competition where participants create and submit memes based on some specific themes. Participants can compete individually or in small teams, creating original memes that adhere to specific guidelines. Memes are posted on an Instagram page. They are judged based on creativity, relevance to the theme, and audience engagement. The top memes are awarded prizes based on a combination of judges' scores and public reactions.",
-            "tagline": "Meme it to Win it!",
-            "prizePool": 2000,
-            "mode": "Online",
-            "location": "Online",
-            "POCs": [
-              {
-                "name": "Aditya Rehpade",
-                "contact": "9168290356"
-              },
-              {
-                "name": "Rishita Pandey",
-                "contact": "7067640892"
-              }
-            ]
-          },
+
           {
             "id": "symphoria",
             "name": "Symphoria",
@@ -931,26 +869,94 @@
           {
             "id": "abhivyakti",
             "name": "अभिव्यक्ति",
-            "image": "culturals/abhivyakti.webp",
             "poster": "abhivyakti.jpg",
+            "image":"culturals/abhivyakti.webp",
             "registerURL": "https://docs.google.com/forms/d/1XQRQVOWvHEvQnjnObn5R6HC6Khvd3HjLemd_lOydLr4/edit?chromeless=1",
-            "rulebook": "https://docs.google.com/document/d/129zWDUBc3nU7EinDetaGF3mPvDWSKtSrw7mlvx2SZ20/edit?usp=sharing",
+            "rulebook": "https://drive.google.com/file/d/10YvQyRDgUObQKvn99hkJ3Wzcyg3OxVOn/view?usp=drivesdk",
             "description": "\"अभिव्यक्ति\" एक एकल काव्य प्रतियोगिता है, जिसमें प्रतिभागी अपनी मौलिक हिंदी रचनाएँ प्रस्तुत करेंगे। प्रतियोगिता दो चरणों में आयोजित की जाएगी: पहले चरण में प्रतिभागियों की रचनाओं की गहराई, मौलिकता और शब्दों की रचनात्मकता के आधार पर चयन किया जाएगा, और अंतिम चरण में चयनित प्रतिभागियों को दर्शकों के समक्ष अपनी प्रस्तुति देने का अवसर मिलेगा। अंतिम चरण में उन्हें दर्शकों की प्रतिक्रिया, आवाज और उच्चारण, भावभंगिमा और समग्र प्रभाव के आधार पर अंक दिए जाएंगे। प्रतियोगिता में नियमों का कड़ाई से पालन करना अनिवार्य है, जिसमें प्रॉप्स या अनुचित भाषा का उपयोग वर्जित है, और प्रतिभागियों को अपनी रचना की हार्ड कॉपी जमा करनी होगी। न्यायाधीश का निर्णय अंतिम और बाध्यकारी होगा।",
             "tagline": "स्वर में छिपी कला, शब्दों में अभिव्यक्ति की शक्ति",
-            "prizePool": 6000,
+            "prizePool": "6000",
             "mode": "Online + Offline",
             "location": "Online + Offline",
             "POCs": [
+                {
+                    "name": "श्लोक तुलस्यान",
+                    "contact": "9931085103"
+                },
+                {
+                    "name": "बमबम",
+                    "contact": "8521923023"
+                }
+            ]
+        },
+        {
+          "id": "promptopia",
+          "name": "Promptopia",
+          "poster": "promptopia.webp",
+          "image":"culturals/prompt.webp",
+          "registerURL": "https://forms.gle/FyeWUParwyyJj7QE6",
+          "rulebook": "https://drive.google.com/file/d/1X_iJCL3c2Ny7b22CeVKhdn2lSYIFsQjv/view?usp=drivesdk",
+          "description": "Promptopia is a prompt writing challenge where participants are presented with a variety of intriguing prompts. Each participant selects one prompt and crafts a unique, imaginative piece based on it. To add an extra twist, bonus elements are provided daily, which participants can incorporate into their work to enhance their creativity and storytelling.",
+          "tagline": "From a Single Spark, a Story Ignites!",
+          "prizePool": "2000",
+          "mode": "Online",
+          "location": "Online",
+          "POCs": [
               {
-                "name": "श्लोक तुलस्यान",
-                "contact": "9931085103"
+                  "name": "Akshat Gupta",
+                  "contact": "9432443604"
               },
               {
-                "name": "बमबम",
-                "contact": "8521923023"
+                  "name": "Ashutosh Kumar Jha",
+                  "contact": "9051042158"
               }
-            ]
+          ]
+      },
+      {
+        "id": "mun",
+        "name": "IIT Bh-Model United Nations",
+        "poster": "mun.webp",
+        "image":"culturals/Mun.jpg",
+        "registerURL": "https://forms.gle/An9oiDpd9QTizoDy9",
+        "rulebook": "https://docs.google.com/document/d/1qjf2SgaR-ja78HeNmnxDW8YwDUBItUB4tjrvw-uufE0/edit?usp=drivesdk",
+        "description": " \"ITBh-MUN\" is your chance to debate, negotiate and create change! The place wherein your ideas and intellect will get their chance to create a global impact and you will provide solutions to shape the future of global policy. In MUN the participating delegates will engage in intensive debate, diplomacy and collaboration to formulate decisions on global issues that involve diplomatic skills and critical thinking. You can have a team of two for a particular arena or be a standalone participant too. Good debaters and performers will surely be awarded and appreciated.Committee: United Nations Security Council (UNSC). Agenda:The Conflict in Yemen: A Path to Humanitarian Relief and Long-Term Stability Amid Regional Rivalries Involving Saudi Arabia and Iran\nCommittee: United Nations Security Council (UNSC)\nAgenda: The Conflict in Yemen: A Path to Humanitarian Relief and Long-Term Stability Amid Regional Rivalries Involving Saudi Arabia and Iran",
+        "tagline": " Where diplomacy meets global change",
+        "prizePool": "11,000",
+        "mode": "Offline",
+        "location": "Offline",
+        "POCs": [
+            {
+                "name": "Rohit Raghuwanshi",
+                "contact": "7999463376"
+            },
+            {
+                "name": "Kanishka Yadav",
+                "contact": "8950966178"
+            }
+        ]
+    },
+    {
+      "id": "meme_o_rama",
+      "name": "Meme-O-Rama",
+      "poster": "meme-o-rama.webp",
+      "image":"culturals/meme.webp",
+      "registerURL": "https://forms.gle/qfn9JtjksDryohwdA",
+      "rulebook": "https://drive.google.com/file/d/1dlFjuHrxqIZ0jOyCPsJ5XwijCNaY72je/view?usp=sharing",
+      "description": "Meme-O-Rama is an online Meme competition where participants create and submit memes based on some specific themes. Participants can compete individually or in small teams, creating original memes that adhere to specific guidelines. Memes are posted on an Instagram page. They are judged based on creativity, relevance to the theme, and audience engagement. The top memes are awarded prizes based on a combination of judges' scores and public reactions.",
+      "prizePool": "2000",
+      "mode": "Online",
+      "location": "Online",
+      "POCs": [
+          {
+              "name": "Aditya Rehpade",
+              "contact": "9168290356"
           },
+          {
+              "name": "Rishita Pandey",
+              "contact": "7067640892"
+          }
+      ]
+  },
           {
         "id": "Pukaar",
         "name": "Pukaar",
@@ -1360,5 +1366,126 @@
       }
 
     ]
+  },
+  "sports":{
+    "title": "Sports",
+    "eventGroups": [
+      {
+        "name": "",
+        "separatePage": true,
+        "card-width": 14,
+        "card-height": 20,
+        "entries":[
+          {
+              "id": "chess",
+              "name": "Chess Tournament ",
+              "image":"sports/3.png",
+              "poster": "chess.png",
+              "registerURL": "https://forms.gle/w1Dn6ovH7Acrxpos9",
+              "description": "Put your chess skills to the test! In this exciting challenge, players will compete in a structured tournament, advancing through rounds and facing diverse opponents. Strategy, focus, and adaptability are key to claiming victory.",
+              "tagline": "Strategize, Compete, Conquer!",
+              "prizePool": 5000,
+              "mode": "Offline",
+              "club": "Chess Club",
+              "rulebook": "https://docs.google.com/document/d/1_DSJILEwsM0rNTwLyIWmcJ7tY1DobAaHB3uB1DiLvxs/edit?usp=sharing",
+              "location": "IIT Bhilai",
+              "POCs": [
+                  {
+                      "name": "Alapati Nagasai",
+                      "contact": "7013934912"
+                  }  
+            ]
+          },
+          {
+              "id": "basketball",
+              "name": "Basketball Tournament",
+              "poster": "Basketball.png",
+              "image":"sports/2.png",
+              "registerURL": "https://forms.gle/ekqyqxhntXfStbrA6",
+              "description": "Basketball tournament will be conducted in Meraz this year for all the college and university students in chhattisgarh. Assemble your 7 players squad to compete with the best teams this year.",
+              "tagline": "Battle of Ballers !",
+              "prizePool": 14000,
+              "mode": "Offline",
+              "club": "Basketball",
+              "rulebook": "https://docs.google.com/document/d/1-d0YXcSNXmZdjB34IM4CTviq4H8Jl-dqB2sQEZyYP6k/edit?usp=drive_link", 
+              "location": "IIT Bhilai",
+              "POCs": [
+                  {
+                      "name": "Omendra Kumar Upadhyay",
+                      "contact": ": 8247589701"
+                  }
+              ]
+          },
+          {
+          "id": "volleyball",
+          "name": "Volleyball Tournament",
+          "poster": "Volleyball.png",
+          "image":"sports/1.png",
+          "registerURL": "https://forms.gle/wxByt75WNHuJ83228",
+          "description": "Spike Your Way to Victory! Gather your team, hone your strategy, and bring your A-game to the court. This tournament promises intense rallies, thrilling saves, and spectacular spikes as players compete for ultimate glory!",
+          "tagline":"Rise. Serve. Conquer!",
+          "prizePool": 15000,
+          "mode": "Offline",
+          "club": "Volleyball Club",
+          "rulebook": "https://docs.google.com/document/d/1Okb-qalWU-R6dq6Q0-wiVjrr0RjNwFjtIMCb0oaOB0g/edit?usp=sharing",
+          "location": "IIT Bhilai",
+          "POCs": [
+              {
+                  "name": "Sai Charan ",
+                  "contact": "9502590582"
+              }
+          ]
+      },
+      
+      {
+          "id": "table-tennis",
+          "name": "Table Tennis",
+          "poster": "table-tennis.jpg",
+          "image":"sports/4.png",
+          "registerURL": "https://forms.gle/a13wH2Mjo2GyzCwE9",
+          "description": "Table Tennis tournament will be conducted in Meraz this year for all the college and university students in chhattisgarh. A game which provides a sport and work environment in which all individuals are treated with respect and dignity.  Each individual is motivated to participate and work in an environment which promotes equal opportunities and prohibits discriminatory practices.",
+          "tagline": "Table Tennis: A Game of Skill and A Test of Will!",
+          "prizePool": 6000,
+          "mode": "Offline",
+          "club": "Table Tennis club",
+          "rulebook": "https://docs.google.com/document/d/1dMWLf3LVJQUnkUJO7hAfCxUMvu6fG0sy80IrRyNRZ0s/edit?usp=drive_link",
+          "location": "IIT Bhilai",
+          "POCs": [
+              {
+                  "name": "Akshita",
+                  "contact": ":7042349740"
+              },
+              {
+                  "name": "Aarya shadangule",
+                  "contact": ": +91 95790 13256"
+              }
+          ]
+      },
+      {
+          "id": "power-lifting-and-fitness",
+          "name": " Power Lifting & Fitness ",
+          "poster":"power-lifting.png",
+          "image":"sports/5.png",
+          "registerURL":"https://forms.gle/Gr1KBj9jzMmGPy5w5",
+          "description": " Power lifting and general fitness is a challenging competition conducted in Meraz for this year for all college and university students in Chhattisgarh. This competition provides a platform to showcase your strength and break some PR’s. We will have bench-press , deadlift and pull-up challenges and participants can participate individually. Every person is encouraged to engage and contribute in a setting that fosters equal opportunities and prevents any form of discrimination.",
+          "tagline": "Strength Unleashed: Where Power Meets Passion",
+          "prizePool": 9000,
+          "mode": "Offline",
+          "club": "Gym club",
+          "rulebook":"https://drive.google.com/file/d/1s7-9WTav0ICunCkS4sqs0YAWqggG7rFK/view?usp=sharing",
+          "location": "IIT Bhilai",
+          "POCs": [
+              {
+                  "name": "Utkarsh Uttam",
+                  "contact": ":+91 86030 37731"
+              },
+              {
+                  "name": "Saurav Tanwar",
+                  "contact": ": +91 98186 91407"
+              }
+          ]
+      }
+      ]
+      }]
   }
 }

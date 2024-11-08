@@ -67,7 +67,7 @@ it, so that you leave with memories ever so colourful!
     width: 100%;
     left: -10px;
     top: -6px;
-    border: 1px solid #00008b;
+    border: 1px solid #7cc7ff;
   }
   .container-2 {
     position: absolute;
