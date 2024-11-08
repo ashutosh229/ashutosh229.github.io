@@ -2,7 +2,7 @@
 // @import '@fontsource/metal-mania/index.css';
 @use '@fontsource/metal-mania/index.css';
 
-@include scrollbars.scrollbars(0.7em, gold, #313131);
+@include scrollbars.scrollbars(0.7em,#c0c0c0, #313131);
 
 /* fonts */
 @font-face {
