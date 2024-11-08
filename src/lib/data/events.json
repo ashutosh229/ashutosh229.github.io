@@ -203,6 +203,7 @@
           "id": "robo_kabaddi",
           "name": "RoboKabaddi",
           "poster": "robo-kabaddi.png",
+          "registerURL":"https://forms.gle/UVc7arha6Sge6n4B7",
           "image":"scitech_banners/robokabadi.jpg",
           "description":"RoboKabaddi is a robotic combat event where robots enter the opposing team's  arena to score points by retrieving objects based on their distance from the goal. The farther the object is from the robot's home arena, the more points it earns. To score, the robot must successfully return the object to its arena without being intercepted or tagged out by the opposing team's bot.",
           "tagline":"Fast, Fearless and Techy Tackles",
