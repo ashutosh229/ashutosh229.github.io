@@ -23,7 +23,7 @@
   <div class="small-navbar-logo-conatiner">
     <a href="/">
       <img
-        alt=""
+        alt="meraz-logo"
         class="small-navbar-logo"
         src="/assets/meraz_logo_final_2024.svg"
       />
@@ -67,12 +67,7 @@
         {/if}
       {/each}
       <div class="regbtn">
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
-          >Register</a
-        >
+        <a href="/register">Register</a>
       </div>
     </div>
   </nav>

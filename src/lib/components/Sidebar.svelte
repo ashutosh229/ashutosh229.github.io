@@ -46,10 +46,7 @@
     {/each}
 
     <div class="regbtn">
-      <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
-        >Register</a
-      >
+      <a href="/register">Register</a>
     </div>
   </nav>
 </div>
