@@ -99,10 +99,10 @@
       </div>
     </label>
     <label class="card" for="item-3" id="song-3">
-      <img src="/assets/carousal-informals.webp" alt="Informals" />
-      <a href="/events/informals"> </a>
+      <img src="/assets/carousel-sports.webp" alt="Sports" />
+      <a href="/events/sports"> </a>
       <div class="card-title">
-        <SectionHeader name="Informals" />
+        <SectionHeader name="Sports" />
       </div>
     </label>
   </div>
@@ -128,11 +128,11 @@
       </a>
     </div>
     <div class="mobile-card">
-      <a href="/events/informals">
-        <img src="/assets/carousal-informals.webp" alt="Informals" />
+      <a href="/events/sports">
+        <img src="/assets/carousel-sports.webp" alt="Sports" />
         <div class="mobile-card-title-container">
           <div class="mobile-card-title">
-            <SubSectionHeader name="Informals" />
+            <SubSectionHeader name="Sports" />
           </div>
         </div>
       </a>
