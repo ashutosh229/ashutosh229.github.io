@@ -1417,51 +1417,6 @@
                   }
               ]
           },
-          {
-          "id": "volleyball",
-          "name": "Volleyball Tournament",
-          "poster": "Volleyball.png",
-          "image":"sports/1.png",
-          "registerURL": "https://forms.gle/wxByt75WNHuJ83228",
-          "description": "Spike Your Way to Victory! Gather your team, hone your strategy, and bring your A-game to the court. This tournament promises intense rallies, thrilling saves, and spectacular spikes as players compete for ultimate glory!",
-          "tagline":"Rise. Serve. Conquer!",
-          "prizePool": 15000,
-          "mode": "Offline",
-          "club": "Volleyball Club",
-          "rulebook": "https://docs.google.com/document/d/1Okb-qalWU-R6dq6Q0-wiVjrr0RjNwFjtIMCb0oaOB0g/edit?usp=sharing",
-          "location": "IIT Bhilai",
-          "POCs": [
-              {
-                  "name": "Sai Charan ",
-                  "contact": "9502590582"
-              }
-          ]
-      },
-      
-      {
-          "id": "table-tennis",
-          "name": "Table Tennis",
-          "poster": "table-tennis.jpg",
-          "image":"sports/4.png",
-          "registerURL": "https://forms.gle/a13wH2Mjo2GyzCwE9",
-          "description": "Table Tennis tournament will be conducted in Meraz this year for all the college and university students in chhattisgarh. A game which provides a sport and work environment in which all individuals are treated with respect and dignity.  Each individual is motivated to participate and work in an environment which promotes equal opportunities and prohibits discriminatory practices.",
-          "tagline": "Table Tennis: A Game of Skill and A Test of Will!",
-          "prizePool": 6000,
-          "mode": "Offline",
-          "club": "Table Tennis club",
-          "rulebook": "https://docs.google.com/document/d/1dMWLf3LVJQUnkUJO7hAfCxUMvu6fG0sy80IrRyNRZ0s/edit?usp=drive_link",
-          "location": "IIT Bhilai",
-          "POCs": [
-              {
-                  "name": "Akshita",
-                  "contact": ":7042349740"
-              },
-              {
-                  "name": "Aarya shadangule",
-                  "contact": ": +91 95790 13256"
-              }
-          ]
-      },
       {
           "id": "power-lifting-and-fitness",
           "name": " Power Lifting & Fitness ",
@@ -1485,7 +1440,27 @@
                   "contact": ": +91 98186 91407"
               }
           ]
-      }
+      },
+      {
+        "id": "futsal",
+        "name": "FUTSAL",
+        "poster":"Futsal (1).png",
+        "image":"sports/2.png",
+        "registerURL":"https://forms.gle/uxQrdQuipe1eSiNA7",
+        "description": "Do you have a passion for Futsal and want to have a adrenaline rush by competing with the best !. This is the right platform for you and your team to showcase your team spirit, skills and strength under the umbrella of Meraz 5.0 in IIT Bhilai",
+        "tagline": "Six-a-side showdown",
+        "prizePool": 7000,
+        "mode": "Offline",
+        "club": "FOOTBALL CLUB",
+        "rulebook":"https://docs.google.com/document/d/1k4G5vkboGGXmJVUQsSjtSsKRpmpcd0m4QN3AxgIiKWE/edit?usp=sharing",
+        "location": "IIT Bhilai",
+        "POCs": [
+            {
+                "name": "DEVANSH TEJWANI",
+                "contact": ":+91 7030429299"
+            }
+        ]
+    }
       ]
       }]
   }
