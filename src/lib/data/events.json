@@ -276,30 +276,6 @@
           ]
         },
         {
-          "id": "pitchblock",
-          "name": "PitchBlock",
-          "poster": "PitchBlock1.png",
-        "image":"scitech_banners/pitch-block.webp",
-          "registerURL": "https://forms.gle/hSq7SFSpFAZY5DM46",
-          "description":"PitchBlock invites teams to present their innovative tech product ideas or startup concepts. While we are excited to see blockchain and Web3-based solutions, we also welcome a wider range of tech-focused projects, making it easier for everyone to participate. Judging will focus on creativity, feasibility, and business potential, with extra points for blockchain applications. Whether you’re a blockchain pro or just starting, PitchBlock is your opportunity to pitch your vision to industry experts and win exciting prizes!",
-          "tagline":"Vision to Venture—Lead Web3!",
-          "prizePool": 10000,
-          "mode": "offline",
-          "club": "Blockchain at IIT Bhilai & Entrepreneurship-Cell",
-        "rulebook":"https://docs.google.com/document/d/15pl26LvX-b2c1egWXjSZHyJ8I8E0tC7IQo55PVzy4VE/edit?usp=sharing",
-          "location": "TBD",
-          "POCs":[
-             {
-               "name": "Amay Dixit",
-               "contact": "7217627792"
-             },
-             {
-               "name": "Ashutosh Kumar Jha",
-               "contact": "9051042158"
-             }
-          ]
-        },
-        {
           "id": "AutomateX",
           "name": "AutomateX",
           "poster": "Automatex.webp",
