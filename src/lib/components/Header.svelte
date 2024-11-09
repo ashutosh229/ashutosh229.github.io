@@ -95,6 +95,15 @@
     display: inline-block;
   }
 
+  .link:hover {
+    color: #7cc7ff; /* Light blue color on hover */
+  }
+
+  .link.active {
+    color: #7cc7ff; /* Light blue color for active tab */
+    font-weight: bold;
+  }
+
   a,
   .link {
     position: relative;
@@ -102,12 +111,6 @@
     color: white;
     font-family: LibreBaskerville;
     transition: color 0.25s ease;
-  }
-  .link:hover {
-    color: #7cc7ff; /* Light blue color on hover */
-  }
-  .link.active {
-    color: #0044cc; /* Permanent blue color for the active tab */
   }
 
   .navbar {
