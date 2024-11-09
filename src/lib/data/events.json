@@ -1394,30 +1394,6 @@
               ]
           },
       {
-          "id": "power-lifting-and-fitness",
-          "name": " Power Lifting & Fitness ",
-          "poster":"power-lifting.png",
-          "image":"sports/5.png",
-          "registerURL":"https://forms.gle/Gr1KBj9jzMmGPy5w5",
-          "description": " Power lifting and general fitness is a challenging competition conducted in Meraz for this year for all college and university students in Chhattisgarh. This competition provides a platform to showcase your strength and break some PR’s. We will have bench-press , deadlift and pull-up challenges and participants can participate individually. Every person is encouraged to engage and contribute in a setting that fosters equal opportunities and prevents any form of discrimination.",
-          "tagline": "Strength Unleashed: Where Power Meets Passion",
-          "prizePool": 9000,
-          "mode": "Offline",
-          "club": "Gym club",
-          "rulebook":"https://drive.google.com/file/d/1s7-9WTav0ICunCkS4sqs0YAWqggG7rFK/view?usp=sharing",
-          "location": "IIT Bhilai",
-          "POCs": [
-              {
-                  "name": "Utkarsh Uttam",
-                  "contact": ":+91 86030 37731"
-              },
-              {
-                  "name": "Saurav Tanwar",
-                  "contact": ": +91 98186 91407"
-              }
-          ]
-      },
-      {
         "id": "futsal",
         "name": "FUTSAL",
         "poster":"Futsal (1).png",
