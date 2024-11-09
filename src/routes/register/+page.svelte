@@ -35,7 +35,7 @@
       Fest Pass
     </a>
     <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSd2NIYm9WLTy6KWUkkEOu10dI7ci8LDubXjhF4MyIubNsKIvg/viewform?usp=sharing"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSfwyK-BXZXdWJWk8vFn3QdRcoI_C64NO9eMX_9LQR1ZG-WHnA/viewform?usp=sf_link"
       class="redirect-button"
       target="_blank"
       rel="noopener noreferrer"
