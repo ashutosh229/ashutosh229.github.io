@@ -48,6 +48,11 @@
 </div>
 
 <style>
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .container {
     background-image: url("/assets/schedule_bg.jpeg");
     font-family: LibreBaskerville;
@@ -61,6 +66,7 @@
     justify-content: center;
     text-align: center;
     height: 100vh;
+    overflow-x: hidden;
   }
 
   .heading {
