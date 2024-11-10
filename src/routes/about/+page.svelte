@@ -102,7 +102,7 @@
     text-align: center;
     font-family: "BluuNext", "Yusei Magic", sans-serif;
     display: flex;
-    width: 100vw; /* Full viewport width */
+    width: 100%; /* Full viewport width */
     justify-content: center;
     align-items: center;
     height: calc(100vh - 80px);
