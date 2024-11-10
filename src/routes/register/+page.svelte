@@ -1,5 +1,7 @@
 <script>
+  import { sidebarOpen } from "./../../lib/stores.js";
   import SectionHeader from "$lib/components/SectionHeader.svelte";
+  $: $sidebarOpen = false;
 </script>
 
 <svelte:head>

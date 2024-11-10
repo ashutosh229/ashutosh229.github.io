@@ -27,7 +27,7 @@
     <div class="cross" on:click={() => ($sidebarOpen = false)}>&#10005</div>
 
     <img
-      alt=""
+      alt="Meraz-Logo"
       class="logoo"
       src="/assets/meraz_logo_final_2024.svg"
       srcset=""
@@ -46,7 +46,7 @@
     {/each}
 
     <div class="regbtn">
-      <a href="/register">Register</a>
+      <a href="/register" on:click={() => ($sidebarOpen = false)}>Register</a>
     </div>
   </nav>
 </div>
