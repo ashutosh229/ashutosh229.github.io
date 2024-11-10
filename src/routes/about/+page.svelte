@@ -115,8 +115,8 @@
   }
 
   .content {
-    padding: 5vw; /* Adjust padding to fit content */
-    width: 100vw; /* Full viewport width */
+    padding: 5vw 0; /* Adjust padding to fit content */
+    width: 100%; /* Full viewport width */
     position: relative;
     font-size: 3vh;
     font-family: Libre Baskerville; /* Apply Libre Baskerville to description text */
