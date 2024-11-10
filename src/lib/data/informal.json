@@ -2,14 +2,15 @@
 	{
 	  "id": "speed-dating",
 	  "name": "SPEED DATING",
-	  "image": "informals/Image-not-found.png",
 	  "poster": "Image-not-found.png",
 	  "tagline": "",
 	  "prizePool": "",
 	  "mode": "Offline",
+	  "club":"",
 	  "rulebook": "https://drive.google.com/file/d/1sysle_N8FuJJZmEUXjs-R3W16S8V8vNr/view?usp=drivesdk",
-	  "registerURL": "#",
+	  "registerURL": "",
 	  "description": "",
+	  "location":"",
 	  "POCs": [
 		{
 		  "name": "Tejavath lokeswari Naik",
