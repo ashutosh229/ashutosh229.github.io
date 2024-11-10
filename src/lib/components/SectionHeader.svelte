@@ -68,7 +68,7 @@
 
   @media (max-width: 480px) {
     .heading-text {
-      font-size: 2.8rem;
+      font-size: 2.2rem;
     }
   }
 </style>
