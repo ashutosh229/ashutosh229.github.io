@@ -276,4 +276,28 @@
        "contact": ": 8292251435"
      }
  ]
-}]
+},
+{
+  "id": "FinTED Talk",
+  "name": "FinTED Talk",
+  "registerURL":"",
+  "rulebook":"",
+  "description": "Join us for the Fin TED Talk series at Meraz Fest, where the world of finance meets innovation and inspiration! Hosted by the FinTech Society, this event is designed to empower and energize, revealing the power of big ideas in shaping the future of finance. Set against a backdrop of transformative thinking, the Fin TED Talk brings together industry leaders and FinTech Mavericks to share groundbreaking insights, visionary experiences, and actionable knowledge. This unique series offers students a chance to connect directly with real-world advancements and revolutionary ideas, setting the stage for a new generation of innovators in finance. Let’s ignite our curiosity and embark on a journey of discovery, empowerment, and boundless possibilities in FinTech!   ",
+  "mode": "offline",
+  "poster": "finted.png",
+  "tagline":"",
+  "location":"IIT Bhilai",
+  "club":"Fintech",
+  "prizePool":0,
+  "POCs":[
+    {
+      "name":"Anirudha",
+      "contact":"9748817054"
+    },
+    {
+      "name":"Tanmay Kumar Shrivastava",
+      "contact":"8851008938"
+    }
+  ]
+}
+]

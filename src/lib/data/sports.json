@@ -1,24 +1,5 @@
 [
     {
-        "id": "chess",
-        "name": "Chess Tournament ",
-        "poster": "chess.png",
-        "registerURL": "https://forms.gle/w1Dn6ovH7Acrxpos9",
-        "description": "Put your chess skills to the test! In this exciting challenge, players will compete in a structured tournament, advancing through rounds and facing diverse opponents. Strategy, focus, and adaptability are key to claiming victory.",
-        "tagline": "Strategize, Compete, Conquer!",
-        "prizePool": 5000,
-        "mode": "Offline",
-        "club": "Chess Club",
-        "rulebook": "https://docs.google.com/document/d/1_DSJILEwsM0rNTwLyIWmcJ7tY1DobAaHB3uB1DiLvxs/edit?usp=sharing",
-        "location": "IIT Bhilai",
-        "POCs": [
-            {
-                "name": "Alapati Nagasai",
-                "contact": "7013934912"
-            }  
-      ]
-    },
-    {
         "id": "basketball",
         "name": "Basketball Tournament",
         "poster": "Basketball.png",

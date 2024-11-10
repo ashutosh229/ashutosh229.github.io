@@ -185,7 +185,7 @@
     transition: transform 200ms linear;
   }
   .sidebarr {
-    color: var(--primary);
+    color: #7cc7ff;
     position: absolute;
     top: 50%;
     right: 2%;

@@ -30,6 +30,48 @@
 	  ]
 	},
 	{
+		"id": "arm wrestling",
+		"name": "ARM WRESTLING",
+		"mode": "Offline",
+		"rulebook": "https://drive.google.com/file/d/108v1ssRaDcwiodMj2iqXq3s4fxoTXB1_/view?usp=sharing",
+		"POCs": [
+		  {
+			"name": "Sunil Kumar ",
+			"contact": "92574 27665"
+		  },
+		  {
+			"name": "Daksh Thakur",
+			"contact": "93905 64457"
+		  },
+		  {
+			"name": "Divyansh Singh",
+			"contact": "7905936402"
+		  }
+		  
+		]
+	  },
+	  {
+		"id": "kbc",
+		"name": "KBC",
+		"mode": "Offline",
+		"rulebook": "https://drive.google.com/file/d/1DvjW8T5LB1TGq4AfLKwFbGezUAGtTUpC/view?usp=sharing",
+		"POCs": [
+		  {
+			"name": "Mitu kumar",
+			"contact": "9508489612"
+		  },
+		  {
+			"name": "Rahul Sisodiya",
+			"contact": "8827594014"
+		  },
+		  {
+			"name": "Mohit",
+			"contact": "9142881627"
+		  }
+		]
+	  },
+  
+	{
 	  "id": "box-cricket",
 	  "name": "BOX CRICKET",
 	  "image": "informals/Image-not-found.png",
@@ -270,6 +312,27 @@
 	  ]
 	},
 	{
+		"id": "casino",
+		"name": "CASINO",
+		"mode": "Offline",
+		"rulebook": "https://drive.google.com/file/d/1IF5frTP7U2QInRAFqncn6jaLdZnwvt9M/view?usp=sharing",
+		"POCs": [
+		  {
+			"name": "Swagat Baghel",
+			"contact": "8457962757"
+		  },
+		  {
+			"name": "Prashant Ramtekar",
+			"contact": "7389142829"
+		  },
+		  {
+			"name": "Tanishq Khasria",
+			"contact": "7206037734"
+		  }
+		]
+	  },
+  
+	{
 	  "id": "memewar",
 	  "name": "MEMEWAR",
 	  "image": "informals/Image-not-found.png",
@@ -300,6 +363,53 @@
 	  ]
 	},
 	{
+		"id": "battlefield",
+		"name": "BATTLEFIELD",
+		"mode": "Offline",
+		"rulebook": "https://drive.google.com/file/d/1HOjXzdU9NVl3txwiYK8NSYlJBFFvnWe3/view?usp=sharing",
+		"POCs": [
+		  {
+			"name": "Aditya seokar",
+			"contact": "8081979964"
+		  },
+		  {
+			"name":"Aditya singh",
+			"contact": "9335692552"
+		  },
+		  {
+			"name": "Aditya kumar gautam",
+			"contact": "9511629108"
+		  }
+		]
+	  },
+  {
+		"id": "escape room",
+		"name": "ESCAPE ROOM",
+		"image": "https://en.wikipedia.org/wiki/File:Escape_Room_(2019_poster).png",
+		"poster": "Escape room.png",
+		"tagline": "Haunted by Whispers",
+		"prizePool": "4000",
+		"mode": "Offline",
+		"rulebook": "Rule book",
+		"registerURL": "https://forms.gle/R11ks8t9rAQrrUUq6",
+		"description": "Step into a surreal world of puzzles and mysteries in Nirvana’s Escape Room; a prized event based on MENTAL HEALTH and your ability to see the glitch in the ordinary. Prepare yourself for an unforgettable experience in our horror-themed escape room! This dark, suspenseful adventure will challenge your courage as you navigate unsettling spaces, solve twisted puzzles, and face eerie surprises around every corner. With only limited time to escape, you and your team must rely on quick thinking and collaboration to overcome the chilling obstacles in your way. Will you make it out before the fear closes in?Venture into a surreal world of puzzles and mysteries in Nirvana’s Escape Room; a prized event based on MENTAL HEALTH and your ability to see the glitch in the ordinary. This dark, suspenseful adventure will challenge your courage as you solve twisted puzzles, and face eerie surprises around every corner. You and your team play as a group of ghost hunters determined to rid the taled haunted manor of its ghostly inhabitants. Will you make it out before the fear closes in?",
+		"POCs": [
+		  {
+			"name": "Anamika Rajesh",
+			"contact": "8593917143"
+		  },
+		  {
+			"name": "Ritika Singh Katoch",
+			"contact": "8962040677"
+		  },
+		  {
+			"name": "Bonta Aalaya",
+			"contact": "8341145002"
+		  }
+		  ]
+	  },
+  
+	{
 	  "id": "rc car racing",
 	  "name": "RC CAR RACING",
 	  "image": "informals/Image-not-found.png",
@@ -325,6 +435,35 @@
 		}
 	  ]
 	},
+	{
+		"id": "musical headphones",
+		"name": "MUSICAL HEADPHONES",
+		"mode": "Offline",
+		"rulebook": "https://drive.google.com/file/d/1Yb4l_jbzNcWzzNh0oftIoazIvHiiovBx/view?usp=sharing",
+		"POCs": [
+		  {
+			"name": "Arush",
+			"contact": "7780070550"
+		  },
+		  {
+			"name": "Priyam Kumari",
+			"contact": "92979593634"
+		  },
+		  {
+			"name": "Nishu",
+			"contact": "7856975958"
+		  },
+		  {
+			"name": "Shubham",
+			"contact": "8797717222"
+		  },
+		  {
+			"name": "Harshitha",
+			"contact": "8827458268"
+		  }
+		]
+	  },
+  
 	{
 	  "id": "slow cycle, sack race",
 	  "name": "SLOW CYCLE, SACK RACE",
