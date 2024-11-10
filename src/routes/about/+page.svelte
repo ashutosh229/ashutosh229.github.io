@@ -88,6 +88,11 @@
 
 <!-- STYLES -->
 <style lang="scss">
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   * {
     margin: 0;
     box-sizing: border-box;
@@ -97,6 +102,7 @@
     text-align: center;
     font-family: "BluuNext", "Yusei Magic", sans-serif;
     display: flex;
+    width: 100vw; /* Full viewport width */
     justify-content: center;
     align-items: center;
     height: calc(100vh - 80px);
@@ -109,8 +115,8 @@
   }
 
   .content {
-    padding: 11vw;
-    width: 100%;
+    padding: 5vw; /* Adjust padding to fit content */
+    width: 100vw; /* Full viewport width */
     position: relative;
     font-size: 3vh;
     font-family: Libre Baskerville; /* Apply Libre Baskerville to description text */
