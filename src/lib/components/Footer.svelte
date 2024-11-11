@@ -40,7 +40,7 @@
             <span>8770571371</span>
             <br /><br />
 
-            <span>Harsh Meena(Fest Convenor/Events Head/)</span>
+            <span>Harsh Meena(Fest Convenor/Events Head)</span>
             <br />
             <span>7611088018</span>
             <br /><br />
