@@ -1001,7 +1001,7 @@
         "entries": [  {
           "id": "escape room",
           "name": "ESCAPE ROOM",
-          "image": "informals/Image-not-found.png",
+          "image": "informals/escape-room.png",
           "poster": "Escape room.png",
           "tagline": "Haunted by Whispers",
           "prizePool": "4000",

@@ -388,12 +388,13 @@
 		"name": "ESCAPE ROOM",
 		"poster": "Escape room.png",
 		"tagline": "Haunted by Whispers",
+		"image":"informals/escape-room.png",
 		"prizePool": "4000",
 		"mode": "Offline",
 		"rulebook": "https://docs.google.com/document/d/1KOKAXOeAN-aF1tgHZMdrIF7JxtV0ROn7gpFscaULZQw/edit?tab=t.0",
 		"registerURL": "https://forms.gle/R11ks8t9rAQrrUUq6",
 		"location":"IIT Bhilai",
-		"description": "Step into a surreal world of puzzles and mysteries in Nirvana’s Escape Room; a prized event based on MENTAL HEALTH and your ability to see the glitch in the ordinary. Prepare yourself for an unforgettable experience in our horror-themed escape room! This dark, suspenseful adventure will challenge your courage as you navigate unsettling spaces, solve twisted puzzles, and face eerie surprises around every corner. With only limited time to escape, you and your team must rely on quick thinking and collaboration to overcome the chilling obstacles in your way. Will you make it out before the fear closes in?Venture into a surreal world of puzzles and mysteries in Nirvana’s Escape Room; a prized event based on MENTAL HEALTH and your ability to see the glitch in the ordinary. This dark, suspenseful adventure will challenge your courage as you solve twisted puzzles, and face eerie surprises around every corner. You and your team play as a group of ghost hunters determined to rid the taled haunted manor of its ghostly inhabitants. ",
+		"description": "Step into Nirvana’s Escape Room, a thrilling event centered on mental health and uncovering the extraordinary in the ordinary. Enter a horror-themed, suspenseful adventure where you and your team of ghost hunters must solve twisted puzzles, face eerie surprises, and escape a haunted manor before time runs out. Test your courage and teamwork in this unforgettable, chilling experience—will you make it out?",
 		"POCs": [
 		  {
 			"name": "Anamika Rajesh",
