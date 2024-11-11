@@ -75,11 +75,11 @@ it, so that you leave with memories ever so colourful!
     width: 100%;
     left: -5px;
     top: +6px;
-    border: 1px solid #00008b;
+    border: 1px solid #7cc7ff;
   }
   .container-3 {
     position: relative;
-    border: 1px solid #00008b;
+    border: 1px solid #7cc7ff;
   }
   .about-content {
     text-align: center;
