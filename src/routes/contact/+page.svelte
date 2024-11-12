@@ -139,9 +139,9 @@
         </h2>
         <div class="nonhiddenInfo">
           <div id="poc">
-            <p>Piyush Chandrakar - 9179932361</p>
-            <p>Himanshu Soni - 9119219983</p>
             <p>Ayush Kumar - 9279020055</p>
+            <p>Himanshu Soni - 9119219983</p>
+            <p>(Only Whatsapp Calls and Messages are allowed)</p>
           </div>
         </div>
       </div>
