@@ -57,10 +57,10 @@
   .sponsor-image {
     position: absolute;
     width: 100%;
-    top: 50%;
-    left: 50%;
+    top: 46%;
+    left: 48.5%;
     transform: translate(-50%, -50%);
-    border: 2px solid #c5a584;
+    border: 2px solid #c0c0c0;
   }
 
   .sponsor-name {
