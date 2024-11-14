@@ -51,7 +51,7 @@
         </div>
         <div
           class="card-content-image"
-          style={`background-image: url(/assets/${data["image"]});`}
+          style={`background-image: url(/assets/${data.image});`}
         ></div>
         <div class="card-content-name">
           <div class="card-name">

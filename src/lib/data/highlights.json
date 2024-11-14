@@ -4,21 +4,21 @@
 		"events": [
 			{
 				"name": "Amit Mishra",
-				"image": "Amit-Mishra (1).JPG",
+				"image": "Amit-Mishra.JPG",
 				"eventDate": "15 Nov",
 				"eventTime": "9 PM",
 				"eventLocation": "Main Stage"
 			},
 			{
 				"name": "Dev Negi",
-				"image": "Dev-Negi (1).jpg",
+				"image": "Dev-Negi.jpg",
 				"eventDate": "14 Nov",
 				"eventTime": "8:30 PM",
 				"eventLocation": "Main Stage"
 			},
 			{
 				"name": "Yash Rathi",
-				"image": "yash-rathi (1).jpeg",
+				"image": "yash-rathi.jpeg",
 				"eventDate": "14 Nov",
 				"eventTime": "7 PM",
 				"eventLocation": "Main Stage"
