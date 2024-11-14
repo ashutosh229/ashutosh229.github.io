@@ -4,24 +4,24 @@
 		"events": [
 			{
 				"name": "Amit Mishra",
-				"image": "Amit-Mishra.JPG",
+				"image": "Amit-Mishra (1).JPG",
 				"eventDate": "15 Nov",
-				"eventTime": "8 PM",
-				"eventLocation": "Pronites Stage"
+				"eventTime": "9 PM",
+				"eventLocation": "Main Stage"
 			},
 			{
 				"name": "Dev Negi",
-				"image": "Dev-Negi.jpg",
+				"image": "Dev-Negi (1).jpg",
 				"eventDate": "14 Nov",
-				"eventTime": "7 PM",
-				"eventLocation": "Pronites Stage"
+				"eventTime": "8:30 PM",
+				"eventLocation": "Main Stage"
 			},
 			{
 				"name": "Yash Rathi",
-				"image": "yash-rathi.jpeg",
-				"eventDate": "TBA",
-				"eventTime": "TBA",
-				"eventLocation": "TBA"
+				"image": "yash-rathi (1).jpeg",
+				"eventDate": "14 Nov",
+				"eventTime": "7 PM",
+				"eventLocation": "Main Stage"
 			}
 		]
 	}
